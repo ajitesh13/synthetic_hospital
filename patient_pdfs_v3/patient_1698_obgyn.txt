@@ -1,0 +1,388 @@
+PATIENT RECORD — ID 1698
+======================================================================
+Age: 32    Sex: F
+Race/Ethnicity: Non-Hispanic White    Insurance: Blue Cross Blue Shield PPO
+Total Encounters: 8    Generation Seed: 3940
+
+Primary Diagnoses:
+  - Postpartum blues (Baby blues)
+  - Coccydynia (musculoskeletal pelvic pain)
+  - Postpartum depression
+  - Stress urinary incontinence
+  - Femoral nerve neuropathy
+  - Rectovaginal fistula
+  - External anal sphincter injury
+
+Comorbidities:
+  - Exclusive breastfeeding
+  - Pregnancy (20 weeks gestation)
+  - Primiparity
+
+----------------------------------------------------------------------
+PATIENT PROFILE
+----------------------------------------------------------------------
+Sex: F
+Age at First Encounter: 32
+Race/Ethnicity: Non-Hispanic White
+Insurance: Blue Cross Blue Shield PPO
+Occupation: Elementary school teacher
+Smoking Status: Never smoker
+Alcohol Use: None (postpartum/breastfeeding)
+
+Allergies:
+  - NKDA
+
+Chronic Conditions:
+None
+
+Home Medications:
+  None
+
+Surgical History:
+  - Wisdom teeth extraction (age 22)
+
+Family History:
+  - Mother: Postpartum depression following second pregnancy
+  - Father: Hypertension
+  - Sibling: None
+
+======================================================================
+ENCOUNTERS (8)
+======================================================================
+
+Encounter 1 — 2020-01-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6943    Type: inpatient
+Attending: Dr. Sarah Chen    Order: 0
+Department: Obstetrics & Gynecology    Gen. Method: template
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Perineal pain and sensation of incomplete bowel evacuation immediately following vaginal delivery with episiotomy
+
+[HPI]
+Undergoes spontaneous vaginal delivery at 39 weeks gestation. Due to concern about shoulder dystocia during the second stage of labor, a midline episiotomy is performed to widen the vaginal outlet. The delivery is otherwise uncomplicated, and a healthy newborn is delivered with good Apgar scores.
+
+[PSH (modified)]
+- Wisdom teeth extraction (age 22)
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother: Postpartum depression following second pregnancy
+- Father: Hypertension
+- Sibling: None
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (postpartum/breastfeeding). Occupation: Elementary school teacher.
+
+[PHYSICAL_EXAM]
+Postpartum examination reveals a clean surgical extension of the perineal incision and no vaginal lacerations. On examination, the perineal incision is intact, but there is decreased anal sphincter tone and minimal voluntary contraction with digital rectal exam. No visible mucosal lacerations are seen. There is no evidence of rectovaginal fistula. The remainder of the pelvic exam is normal, and the uterus is firm and well-contracted.
+
+Encounter 2 — 2020-01-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6936    Type: outpatient
+Attending: Dr. Priya Patel    Order: 1
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine postpartum visit with tearfulness, irritability, and difficulty sleeping 10 days after delivery
+
+[HPI (modified)]
+The patient returns for routine postpartum evaluation approximately 10 days following vaginal delivery with episiotomy complicated by external anal sphincter injury. She gave birth to a healthy baby girl 10 days ago and reports feeling overwhelmed and tearful since delivery, with episodes of unexplained crying and irritability. She also mentions difficulty sleeping and concentrating, which she attributes to the new responsibilities of motherhood. She denies any thoughts of harming herself or her baby.
+
+[PMH (modified)]
+Active Problem List:
+- External anal sphincter injury (diagnosed 2020-01-15)
+
+Her pregnancy was uncomplicated.
+
+[PSH (modified)]
+- Wisdom teeth extraction (age 22)
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother: Postpartum depression following second pregnancy
+- Father: Hypertension
+- Sibling: None
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (postpartum/breastfeeding). Occupation: Elementary school teacher.
+
+[VITALS]
+Her vital signs are stable
+
+[PHYSICAL_EXAM]
+There are no abnormal findings
+
+[LABS]
+Her complete blood count and thyroid function tests are within normal limits.
+
+Encounter 3 — 2020-02-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6937    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 2
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Persistent localized pain at the base of the spine for two weeks, exacerbated by sitting, following vaginal delivery three weeks ago
+
+[HPI (modified)]
+The patient returns for evaluation of persistent pain three weeks following her vaginal delivery, with recent history of external anal sphincter injury and postpartum blues. She reports that the pain is localized at the base of her spine and is exacerbated by sitting down or transitioning from sitting to standing. She denies any recent trauma or injury to the area. She gave birth to her first child via vaginal delivery three weeks ago. The delivery was complicated by a prolonged second stage of labor.
+
+[PMH (modified)]
+Active Problem List:
+- External anal sphincter injury (diagnosed 2020-01-15)
+- Postpartum blues (Baby blues) (diagnosed 2020-01-15)
+
+[PSH (modified)]
+- Wisdom teeth extraction (age 22)
+
+[MEDICATIONS]
+She is not taking any medications
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother: Postpartum depression following second pregnancy
+- Father: Hypertension
+- Sibling: None
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (postpartum/breastfeeding). Occupation: Elementary school teacher.
+
+[PHYSICAL_EXAM]
+On physical examination, there is tenderness to palpation over the coccyx. No overlying skin changes or masses are noted. Rectal examination is deferred due to patient discomfort.
+
+Encounter 4 — 2020-02-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6939    Type: outpatient
+Attending: Dr. Aisha Johnson    Order: 3
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Involuntary urinary leakage with coughing or laughing for four weeks since vaginal delivery
+
+[HPI (modified)]
+The patient returns to the obstetrics clinic for further evaluation of postpartum symptoms following vaginal delivery complicated by external anal sphincter injury and recent coccydynia. She gave birth to a healthy baby girl vaginally 4 weeks ago. She reports that since the delivery, she has experienced involuntary leakage of urine when she coughs or laughs. She denies any burning with urination or increased frequency.
+
+[PMH (modified)]
+Active Problem List:
+- External anal sphincter injury (diagnosed 2020-01-15)
+- Postpartum blues (Baby blues) (diagnosed 2020-01-15)
+- Coccydynia (musculoskeletal pelvic pain) (diagnosed 2020-02-15)
+
+Her prenatal course was uncomplicated.
+
+[PSH (modified)]
+- Wisdom teeth extraction (age 22)
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother: Postpartum depression following second pregnancy
+- Father: Hypertension
+- Sibling: None
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (postpartum/breastfeeding). Occupation: Elementary school teacher.
+
+[PHYSICAL_EXAM]
+On physical examination, there is no evidence of urinary tract infection or pelvic organ prolapse. A cough stress test is positive for urine leakage.
+
+Encounter 5 — 2020-03-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6938    Type: outpatient
+Attending: Dr. Aisha Johnson    Order: 4
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine 6-week postpartum visit with persistent feelings of hopelessness, guilt, and anhedonia
+
+[HPI (modified)]
+The patient returns for her routine six-week postpartum visit following vaginal delivery complicated by external anal sphincter injury, having previously presented with postpartum blues and ongoing pelvic floor dysfunction including coccydynia and stress urinary incontinence. She reports feeling "down" and "hopeless" most days since the delivery, with difficulty sleeping even when her baby is asleep. She admits to having little interest in activities she used to enjoy and feels overwhelmed and guilty about not being a good mother. She has difficulty concentrating and making decisions, and her appetite has decreased significantly. She tearfully confesses that she has had thoughts of harming herself but has not made any plans. She denies any thoughts of harming her baby.
+
+[PMH (modified)]
+Active Problem List:
+- External anal sphincter injury (diagnosed 2020-01-15)
+- Postpartum blues (Baby blues) (diagnosed 2020-01-15)
+- Coccydynia (musculoskeletal pelvic pain) (diagnosed 2020-02-15)
+- Stress urinary incontinence (diagnosed 2020-02-15)
+
+She had an uncomplicated pregnancy and vaginal delivery.
+
+[PSH (modified)]
+- Wisdom teeth extraction (age 22)
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother: Postpartum depression following second pregnancy
+- Father: Hypertension
+- Sibling: None
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (postpartum/breastfeeding). Occupation: Elementary school teacher.
+
+[VITALS]
+Blood pressure: 120/78 mmHg
+- Heart rate: 78 bpm
+- Respiratory rate: 16 breaths/min
+- Temperature: 98.6°F (37°C)
+
+[PHYSICAL_EXAM]
+Her physical examination is normal.
+
+[LABS]
+Hemoglobin: 12.8 g/dL
+- Thyroid-stimulating hormone (TSH): 2.5 mIU/L
+- Fasting glucose: 92 mg/dL
+
+Encounter 6 — 2020-03-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6942    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 5
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Six-week history of fecal incontinence and malodorous tan-brown vaginal discharge with gas bubbles
+
+[HPI (modified)]
+She returns postpartum with sphincter injury. She reports that the discharge is tan-brown and occasionally contains gas bubbles.
+
+[PMH (modified)]
+Active Problem List:
+- External anal sphincter injury (diagnosed 2020-01-15)
+- Postpartum blues (Baby blues) (diagnosed 2020-01-15)
+- Coccydynia (musculoskeletal pelvic pain) (diagnosed 2020-02-15)
+- Stress urinary incontinence (diagnosed 2020-02-15)
+- Postpartum depression (diagnosed 2020-03-15)
+
+She gave birth to her first child vaginally 8 weeks ago and sustained a fourth-degree perineal laceration, which was repaired immediately postpartum.
+
+[PSH (modified)]
+- Wisdom teeth extraction (age 22)
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother: Postpartum depression following second pregnancy
+- Father: Hypertension
+- Sibling: None
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (postpartum/breastfeeding). Occupation: Elementary school teacher.
+
+[VITALS]
+Vital signs are within normal limits.
+
+[PHYSICAL_EXAM]
+On examination, the patient appears well-nourished and in no acute distress.
+Pelvic examination reveals a small amount of tan-brown discharge in the vaginal vault and a dark red, velvety area of tissue on the posterior vaginal wall. No masses are palpable, and the remainder of the pelvic examination is unremarkable.
+
+Encounter 7 — 2025-01-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6940    Type: inpatient
+Attending: Dr. Michael Rodriguez    Order: 6
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Acute difficulty walking and numbness over the anteromedial thigh 24 hours after vaginal delivery
+
+[HPI (modified)]
+The multiparous patient with history of prior sphincter injury and fistula is 24 hours postpartum following vaginal delivery of a healthy baby boy complicated by prolonged second stage of labor requiring hyperflexion of her hips.
+
+[PMH (modified)]
+Active Problem List:
+- External anal sphincter injury (diagnosed 2020-01-15)
+- Postpartum blues (Baby blues) (diagnosed 2020-01-15)
+- Coccydynia (musculoskeletal pelvic pain) (diagnosed 2020-02-15)
+- Stress urinary incontinence (diagnosed 2020-02-15)
+- Postpartum depression (diagnosed 2020-03-15)
+- Rectovaginal fistula (diagnosed 2020-03-15)
+
+[PSH (modified)]
+- Wisdom teeth extraction (age 22)
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother: Postpartum depression following second pregnancy
+- Father: Hypertension
+- Sibling: None
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (postpartum/breastfeeding). Occupation: Elementary school teacher.
+
+[PHYSICAL_EXAM]
+On physical examination, she has a decreased sensation over the anteromedial aspect of her right thigh and weakness during hip flexion and knee extension on the same side. Deep tendon reflexes are normal, and there is no back pain or tenderness.
+
+Encounter 8 — 2025-02-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6941    Type: outpatient
+Attending: Dr. Emily Watson    Order: 7
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine 6-week postpartum visit with low mood, sleep disturbance, and irritability
+
+[HPI (modified)]
+The patient is a 37-year-old female returning for her routine 6-week postpartum visit following a delivery complicated by femoral nerve neuropathy, with a history of postpartum depression after her 2020 delivery. She reports feeling "down" and has trouble sleeping, even when her baby is asleep. She expresses concern about her lack of interest in activities she used to enjoy and admits to feeling overwhelmed and irritable. She denies any thoughts of harming herself or her baby.
+
+[PMH (modified)]
+Active Problem List:
+- External anal sphincter injury (diagnosed 2020-01-15)
+- Postpartum blues (Baby blues) (diagnosed 2020-01-15)
+- Coccydynia (musculoskeletal pelvic pain) (diagnosed 2020-02-15)
+- Stress urinary incontinence (diagnosed 2020-02-15)
+- Postpartum depression (diagnosed 2020-03-15)
+- Rectovaginal fistula (diagnosed 2020-03-15)
+- Femoral nerve neuropathy (diagnosed 2025-01-15)
+
+Her pregnancy was uncomplicated, and she has no prior history of psychiatric illness.
+
+[PSH (modified)]
+- Wisdom teeth extraction (age 22)
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother: Postpartum depression following second pregnancy
+- Father: Hypertension
+- Sibling: None
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (postpartum/breastfeeding). Occupation: Elementary school teacher.
+
+[VITALS]
+Her vital signs are within normal limits.
+
+[PHYSICAL_EXAM]
+On examination, she appears fatigued but is otherwise well-appearing.
+
+[PLAN]
+The physician decides to screen for postpartum depression.

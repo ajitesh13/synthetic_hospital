@@ -1,0 +1,430 @@
+PATIENT RECORD — ID 1823
+======================================================================
+Age: 28    Sex: F
+Race/Ethnicity: Cypriot (Mediterranean)    Insurance: Commercial PPO
+Total Encounters: 8    Generation Seed: 5615
+
+Primary Diagnoses:
+  - Thalassemia minor
+  - Endometriosis of ovary (Ovarian endometrioma)
+  - Iron deficiency anemia
+
+Comorbidities:
+  - Menorrhagia
+  - Family history of hereditary bleeding disorder
+
+----------------------------------------------------------------------
+PATIENT PROFILE
+----------------------------------------------------------------------
+Sex: F
+Age at First Encounter: 28
+Race/Ethnicity: Cypriot (Mediterranean)
+Insurance: Commercial PPO
+Occupation: Elementary school teacher
+Smoking Status: Never
+Alcohol Use: Social (1-2 drinks per month)
+
+Allergies:
+  - NKDA
+
+Chronic Conditions:
+  - Beta-thalassemia minor (trait)
+  - Endometriosis
+  - History of iron deficiency anemia
+
+Home Medications:
+  - Multivitamin - 1 tablet daily
+
+Surgical History:
+  - Laparoscopic right ovarian cystectomy for endometrioma
+
+Family History:
+  - Father with beta-thalassemia minor
+  - Mother with beta-thalassemia minor
+  - Paternal cousin with beta-thalassemia major
+  - Maternal aunt with endometriosis
+
+======================================================================
+ENCOUNTERS (8)
+======================================================================
+
+Encounter 1 — 2020-01-15 — Internal Medicine
+----------------------------------------------------------------------
+Encounter ID: 7659    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 0
+Department: Internal Medicine    Gen. Method: template
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Evaluation of anemia noted during a pre-employment physical for elementary school teaching position.
+
+[HPI]
+She feels well, denying fatigue, dyspnea, or dizziness. She reports regular menstrual cycles and no history of heavy bleeding. Her diet includes red meat, leafy greens, and iron-fortified cereals. She is not currently pregnant but plans to start a family within the next year. She is started on oral ferrous sulfate but returns six weeks later with no improvement.
+
+[PMH (modified)]
+Active Problem List:
+- Beta-thalassemia minor (trait)
+- Endometriosis
+- History of iron deficiency anemia
+
+[PSH (modified)]
+- Laparoscopic right ovarian cystectomy for endometrioma
+
+[MEDICATIONS]
+She takes a daily multivitamin and does not take any medications or supplements.
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY]
+Her mother and maternal uncle were both told they had "small blood cells" but never required treatment.
+
+[SOCIAL_HISTORY]
+She emigrated from Cyprus six years ago and works as a schoolteacher.
+
+[PHYSICAL_EXAM]
+Physical exam is normal.
+
+[LABS]
+Laboratory studies show microcytic anemia. Iron panel reveals normal iron and ferritin levels. Hemoglobin electrophoresis is ordered, and results show elevated hemoglobin A2 with mild increase in hemoglobin F.
+
+Encounter 2 — 2020-04-15 — Hematology & Oncology
+----------------------------------------------------------------------
+Encounter ID: 7656    Type: outpatient
+Attending: Dr. Michael Rodriguez    Order: 1
+Department: Hematology & Oncology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Increasing fatigue over the past two months with occasional lightheadedness on standing.
+
+[HPI (modified)]
+The patient returns for evaluation of progressive fatigue and lightheadedness, following her initial assessment for anemia detected during a pre-employment physical three months prior, with known Beta-thalassemia minor and Endometriosis. She reports feeling tired during her daily activities and occasionally feeling lightheaded when standing up quickly. Her menstrual cycles are regular but tend to be heavy, requiring frequent pad changes. She denies any unusual cravings or gastrointestinal symptoms.
+
+[PMH (modified)]
+Active Problem List:
+- Thalassemia minor (diagnosed 2020-01-15)
+- Beta-thalassemia minor (trait)
+- Endometriosis
+- History of iron deficiency anemia
+
+[PSH (modified)]
+- Laparoscopic right ovarian cystectomy for endometrioma
+
+[MEDICATIONS (modified)]
+She does not take any medications
+
+Home Medications:
+- Multivitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY]
+There is no family history of blood disorders.
+
+[SOCIAL_HISTORY]
+Follows a balanced diet
+
+[PHYSICAL_EXAM]
+Physical examination shows pale conjunctivae but is otherwise normal.
+
+[LABS]
+Laboratory results:
+Hemoglobin                        9.4 g/dL
+MCV                                  72 fL
+Serum iron                       24 µg/dL
+Ferritin                             9 ng/mL
+RDW                               17%
+
+[OTHER_STUDIES]
+A peripheral blood smear is obtained and shown below.
+
+Encounter 3 — 2020-09-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7655    Type: procedure
+Attending: Dr. Emily Johnson    Order: 2
+Department: Obstetrics & Gynecology    Gen. Method: template
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Pelvic pain and evaluation for ovarian cyst.
+
+[PMH (modified)]
+Active Problem List:
+- Thalassemia minor (diagnosed 2020-01-15)
+- Iron deficiency anemia (diagnosed 2020-04-15)
+- Beta-thalassemia minor (trait)
+- Endometriosis
+
+[PSH (modified)]
+- Laparoscopic right ovarian cystectomy for endometrioma
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Multivitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Father with beta-thalassemia minor
+- Mother with beta-thalassemia minor
+- Paternal cousin with beta-thalassemia major
+- Maternal aunt with endometriosis
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: Social (1-2 drinks per month). Occupation: Elementary school teacher.
+
+Encounter 4 — 2021-03-15 — Internal Medicine
+----------------------------------------------------------------------
+Encounter ID: 7654    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 3
+Department: Internal Medicine    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine health examination and follow-up of chronic anemia.
+
+[HPI (modified)]
+Returning for anemia follow-up with thalassemia minor, iron deficiency, and endometriosis, she has a history of mild fatigue and denies any recent illness, bleeding, or dietary changes.
+
+[PMH (modified)]
+Active Problem List:
+- Thalassemia minor (diagnosed 2020-01-15)
+- Iron deficiency anemia (diagnosed 2020-04-15)
+- Endometriosis of ovary (Ovarian endometrioma) (diagnosed 2020-09-15)
+- Beta-thalassemia minor (trait)
+- Endometriosis
+
+[PSH (modified)]
+- Laparoscopic right ovarian cystectomy for endometrioma
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Multivitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY]
+Her family history is notable for a sister with a "blood disorder" that was never clearly explained to her.
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: Social (1-2 drinks per month). Occupation: Elementary school teacher.
+
+[PHYSICAL_EXAM]
+On physical examination, she appears well and has no pallor, jaundice, or organomegaly.
+
+[LABS]
+Her complete blood count reveals the following:
+
+- Hemoglobin: 11.2 g/dL (Normal: 12-16 g/dL)
+- Mean corpuscular volume (MCV): 72 fL (Normal: 80-100 fL)
+- Red cell distribution width (RDW): 13.5% (Normal: 11.5-14.5%)
+- Reticulocyte count: 3.5% (Normal: 0.5-2.5%)
+
+Encounter 5 — 2022-03-15 — Hematology & Oncology
+----------------------------------------------------------------------
+Encounter ID: 7652    Type: outpatient
+Attending: Dr. Michael Rodriguez    Order: 4
+Department: Hematology & Oncology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Three-month history of worsening fatigue and shortness of breath on exertion.
+
+[HPI (modified)]
+Returning for follow-up of beta-thalassemia minor, iron deficiency anemia, and endometriosis, she reports heavy menses but otherwise feels well.
+
+[PMH (modified)]
+Active Problem List:
+- Thalassemia minor (diagnosed 2020-01-15)
+- Iron deficiency anemia (diagnosed 2020-04-15)
+- Endometriosis of ovary (Ovarian endometrioma) (diagnosed 2020-09-15)
+- Beta-thalassemia minor (trait)
+- Endometriosis
+
+[PSH (modified)]
+- Laparoscopic right ovarian cystectomy for endometrioma
+
+[MEDICATIONS (modified)]
+She was started on a daily iron supplement at the time.
+
+Home Medications:
+- Multivitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Father with beta-thalassemia minor
+- Mother with beta-thalassemia minor
+- Paternal cousin with beta-thalassemia major
+- Maternal aunt with endometriosis
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: Social (1-2 drinks per month). Occupation: Elementary school teacher.
+
+[LABS]
+Hemoglobin is 9.2 g/dL, MCV is 72 fL. One month ago, her hemoglobin was 9.0 g/dL and MCV was 73 fL.
+
+Encounter 6 — 2023-03-15 — Hematology & Oncology
+----------------------------------------------------------------------
+Encounter ID: 7653    Type: outpatient
+Attending: Dr. David Park    Order: 5
+Department: Hematology & Oncology    Gen. Method: template
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Ongoing complaints of fatigue and mild exertional dyspnea.
+
+[PMH (modified)]
+Active Problem List:
+- Thalassemia minor (diagnosed 2020-01-15)
+- Iron deficiency anemia (diagnosed 2020-04-15)
+- Endometriosis of ovary (Ovarian endometrioma) (diagnosed 2020-09-15)
+- Beta-thalassemia minor (trait)
+- Endometriosis
+
+She denies any significant past medical history.
+
+[PSH (modified)]
+- Laparoscopic right ovarian cystectomy for endometrioma
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Multivitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY]
+She reports a similar history of anemia in several family members, but she is not aware of any specific diagnosis
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: Social (1-2 drinks per month). Occupation: Elementary school teacher.
+
+[PHYSICAL_EXAM]
+On physical examination, she appears well with no pallor, jaundice, or organomegaly
+
+[LABS]
+Her complete blood count reveals:
+
+- Hemoglobin: 11.2 g/dL
+- Mean corpuscular volume (MCV): 68 µm^3
+- Red blood cell (RBC) count: 6.1 x 10^12/L
+- Platelets: 250 x 10^9/L
+- White blood cells (WBC): 6.0 x 10^9/L
+
+[OTHER_STUDIES]
+A peripheral blood smear shows target cells.
+
+[PLAN]
+Serum iron studies and hemoglobin electrophoresis are ordered.
+
+Encounter 7 — 2024-03-15 — Hematology & Oncology
+----------------------------------------------------------------------
+Encounter ID: 7658    Type: outpatient
+Attending: Dr. David Park    Order: 6
+Department: Hematology & Oncology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Evaluation of low hemoglobin discovered during recent blood donation attempt.
+
+[HPI (modified)]
+The patient presents for follow-up evaluation of anemia in the context of longstanding beta-thalassemia minor, with prior hematology encounters for similar complaints. She reports symptoms have been present for years and were previously attributed to "low iron," for which she briefly took supplements in the past. She recently donated blood and was informed her hemoglobin was low. She denies gastrointestinal symptoms, heavy menstrual bleeding, or recent infections.
+
+[PMH (modified)]
+Active Problem List:
+- Thalassemia minor (diagnosed 2020-01-15)
+- Iron deficiency anemia (diagnosed 2020-04-15)
+- Endometriosis of ovary (Ovarian endometrioma) (diagnosed 2020-09-15)
+- Beta-thalassemia minor (trait)
+- Endometriosis
+
+She has no chronic diseases.
+
+[PSH (modified)]
+- Laparoscopic right ovarian cystectomy for endometrioma
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Multivitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY]
+Her family history is significant for a cousin with "some kind of blood disorder."
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: Social (1-2 drinks per month). Occupation: Elementary school teacher.
+
+[PHYSICAL_EXAM]
+Physical examination is unremarkable, with no pallor, jaundice, or splenomegaly.
+
+[LABS]
+Laboratory studies show:
+Hemoglobin                                                              10.5 g/dL
+Hematocrit                                                                31%
+Erythrocyte count                                                     5.9 million/mm³
+MCV                                                                         70 µm³
+RDW                                                                        13.1% (normal: 13–15%)
+Reticulocyte count                                                    1.1%
+Serum ferritin                                                           118 ng/mL
+Serum iron                                                                85 µg/dL
+TIBC                                                                         260 µg/dL
+Coombs test                                                             Negative
+
+Encounter 8 — 2025-03-15 — Hematology & Oncology
+----------------------------------------------------------------------
+Encounter ID: 7657    Type: outpatient
+Attending: Dr. Priya Patel    Order: 7
+Department: Hematology & Oncology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Asymptomatic participation in hemoglobin-oxygen dissociation research study.
+
+[HPI (modified)]
+The patient with known beta-thalassemia minor returns for annual hematology follow-up. She is evaluated as part of a study for hemoglobin-oxygen dissociation metrics.
+
+[PMH (modified)]
+Active Problem List:
+- Thalassemia minor (diagnosed 2020-01-15)
+- Iron deficiency anemia (diagnosed 2020-04-15)
+- Endometriosis of ovary (Ovarian endometrioma) (diagnosed 2020-09-15)
+- Beta-thalassemia minor (trait)
+- Endometriosis
+
+[PSH (modified)]
+- Laparoscopic right ovarian cystectomy for endometrioma
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Multivitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Father with beta-thalassemia minor
+- Mother with beta-thalassemia minor
+- Paternal cousin with beta-thalassemia major
+- Maternal aunt with endometriosis
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: Social (1-2 drinks per month). Occupation: Elementary school teacher.
+
+[LABS]
+Curve is slightly left-shifted, with an increase in HbF and HbA2

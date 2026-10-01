@@ -1,0 +1,431 @@
+PATIENT RECORD — ID 1693
+======================================================================
+Age: 33    Sex: F
+Race/Ethnicity: Non-Hispanic White    Insurance: Commercial PPO
+Total Encounters: 8    Generation Seed: 3381
+
+Primary Diagnoses:
+  - Conservative management of placenta previa with bed rest
+  - Preterm labor
+  - Placenta percreta
+  - Placenta previa
+  - Placenta accreta
+  - Stress urinary incontinence
+  - Placenta previa (complete)
+
+Comorbidities:
+  - History of previous cesarean delivery
+  - Multiparity
+
+----------------------------------------------------------------------
+PATIENT PROFILE
+----------------------------------------------------------------------
+Sex: F
+Age at First Encounter: 33
+Race/Ethnicity: Non-Hispanic White
+Insurance: Commercial PPO
+Occupation: Elementary school teacher
+Smoking Status: Never
+Alcohol Use: Occasional (1-2 drinks per month)
+
+Allergies:
+  - No known drug allergies
+
+Chronic Conditions:
+  - History of gestational diabetes mellitus
+  - Stress urinary incontinence
+
+Home Medications:
+  - Metformin - 500 mg oral twice daily
+  - Prenatal vitamin - 1 tablet daily
+
+Surgical History:
+  - Low transverse cesarean section x2
+  - Dilation and curettage
+
+Family History:
+  - Type 2 diabetes mellitus (mother)
+  - Preeclampsia (sister)
+
+======================================================================
+ENCOUNTERS (8)
+======================================================================
+
+Encounter 1 — 2020-01-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6915    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 0
+Department: Obstetrics & Gynecology    Gen. Method: template
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Six-month history of intermittent vaginal wetness during exercise or sneezing.
+
+[HPI]
+She presents to the clinic with a 6-month history of intermittent vaginal wetness, particularly during exercise or when she sneezes. She denies any recent sexual activity and has no history of urinary tract infections.
+
+[PMH (modified)]
+Active Problem List:
+- History of gestational diabetes mellitus
+- Stress urinary incontinence
+
+Her obstetric history is significant for two vaginal deliveries, the most recent being 18 months ago.
+
+[PSH (modified)]
+- Low transverse cesarean section x2
+- Dilation and curettage
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Metformin 500 mg oral twice daily
+- Prenatal vitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Type 2 diabetes mellitus (mother)
+- Preeclampsia (sister)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: Occasional (1-2 drinks per month). Occupation: Elementary school teacher.
+
+[PHYSICAL_EXAM]
+On physical examination, no abnormalities are noted at rest. However, upon performing the Valsalva maneuver, no fluid is observed emerging from the cervix. A speculum examination is performed, and the nitrazine test is negative. Ferning is not observed on microscopic examination of the vaginal fluid.
+
+Encounter 2 — 2021-01-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6914    Type: inpatient
+Attending: Dr. Michael Torres    Order: 1
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Presented in active labor with contractions every 3 minutes; underwent vaginal delivery complicated by retained placenta and hemorrhage.
+
+[HPI (modified)]
+The patient is a 34-year-old female with gestational diabetes mellitus managed on metformin and a history of stress urinary incontinence who presents in active labor. She was evaluated one year prior for intermittent vaginal wetness with exertion consistent with this history. Her pregnancy has been uncomplicated, and she has received routine prenatal care. After several hours of labor, she delivers a healthy male infant vaginally. However, the placenta does not deliver spontaneously after 30 minutes, and manual attempts at removal are unsuccessful. The patient begins to experience significant vaginal bleeding. The bleeding continues despite conservative management, including uterine massage and oxytocin administration.
+
+[PMH (modified)]
+Active Problem List:
+- Stress urinary incontinence (diagnosed 2020-01-15)
+- History of gestational diabetes mellitus
+
+[PSH]
+She has a history of two prior cesarean sections.
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Metformin 500 mg oral twice daily
+- Prenatal vitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Type 2 diabetes mellitus (mother)
+- Preeclampsia (sister)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: Occasional (1-2 drinks per month). Occupation: Elementary school teacher.
+
+[VITALS]
+On examination, her vital signs are stable. Her blood pressure is 100/60 mmHg, and her heart rate is 110 bpm.
+
+[PHYSICAL_EXAM]
+On examination, the fetal heart tracing is reassuring. On examination, the uterus is firm, and the cervix is closed.
+
+[LABS]
+The patient's hemoglobin drops from 12.5 g/dL to 9.8 g/dL over the next hour.
+
+[IMAGING]
+An urgent ultrasound shows an abnormally adherent placenta with no clear plane between the placenta and the myometrium.
+
+Encounter 3 — 2023-01-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6916    Type: outpatient
+Attending: Dr. Jennifer Walsh    Order: 2
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine prenatal visit at 28 weeks gestation; asymptomatic.
+
+[HPI (modified)]
+She returns for prenatal care at 28 weeks with history of gestational diabetes, retained placenta, and stress incontinence. Her pregnancy remains uncomplicated; she is compliant with prenatal vitamins and routine care and denies vaginal bleeding, contractions, or fluid leakage.
+
+[PMH (modified)]
+Active Problem List:
+- Stress urinary incontinence (diagnosed 2020-01-15)
+- Placenta accreta (diagnosed 2021-01-15)
+- History of gestational diabetes mellitus
+
+Her past medical history is significant for gestational diabetes during her first pregnancy, which was diet-controlled.
+
+[PSH (modified)]
+- Low transverse cesarean section x2
+- Dilation and curettage
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Metformin 500 mg oral twice daily
+- Prenatal vitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Type 2 diabetes mellitus (mother)
+- Preeclampsia (sister)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: Occasional (1-2 drinks per month). Occupation: Elementary school teacher.
+
+[VITALS]
+Her blood pressure is 120/78 mmHg
+
+[PHYSICAL_EXAM]
+Her physical examination is unremarkable
+
+[IMAGING]
+A routine prenatal ultrasound is performed, which reveals that the placenta is covering the internal cervical os.
+
+Encounter 4 — 2023-02-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6909    Type: outpatient
+Attending: Dr. Jennifer Walsh    Order: 3
+Department: Obstetrics & Gynecology    Gen. Method: template
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Follow-up for complete placenta previa diagnosed at 28 weeks; instructed on pelvic rest and activity restriction.
+
+[PMH (modified)]
+Active Problem List:
+- Stress urinary incontinence (diagnosed 2020-01-15)
+- Placenta accreta (diagnosed 2021-01-15)
+- Placenta previa (complete) (diagnosed 2023-01-15)
+- History of gestational diabetes mellitus
+
+[PSH (modified)]
+- Low transverse cesarean section x2
+- Dilation and curettage
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Metformin 500 mg oral twice daily
+- Prenatal vitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Type 2 diabetes mellitus (mother)
+- Preeclampsia (sister)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: Occasional (1-2 drinks per month). Occupation: Elementary school teacher.
+
+Encounter 5 — 2023-03-15 — Emergency Medicine
+----------------------------------------------------------------------
+Encounter ID: 6912    Type: ed
+Attending: Dr. Priya Patel    Order: 4
+Department: Emergency Medicine    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Sudden-onset, painless vaginal bleeding while at home.
+
+[HPI (modified)]
+The patient presents to the emergency department with sudden-onset, painless vaginal bleeding in the setting of known complete placenta previa managed with pelvic rest and activity restriction. She denies abdominal pain, contractions, or recent trauma.
+
+[PMH (modified)]
+Active Problem List:
+- Stress urinary incontinence (diagnosed 2020-01-15)
+- Placenta accreta (diagnosed 2021-01-15)
+- Placenta previa (complete) (diagnosed 2023-01-15)
+- Conservative management of placenta previa with bed rest (diagnosed 2023-02-15)
+- History of gestational diabetes mellitus
+
+Her previous deliveries were all by cesarean section.
+
+[PSH (modified)]
+- Low transverse cesarean section x2
+- Dilation and curettage
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Metformin 500 mg oral twice daily
+- Prenatal vitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Type 2 diabetes mellitus (mother)
+- Preeclampsia (sister)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: Occasional (1-2 drinks per month). Occupation: Elementary school teacher.
+
+[PHYSICAL_EXAM]
+On examination, she is hemodynamically stable, fetal heart tones are normal, and the uterus is soft and non-tender. Speculum exam reveals active bleeding from the cervical os, but digital cervical exam is deferred.
+
+[IMAGING]
+Transabdominal ultrasound shows a placenta covering the internal cervical os.
+
+[PLAN]
+She is admitted for monitoring and stabilization.
+
+Encounter 6 — 2023-04-15 — Emergency Medicine
+----------------------------------------------------------------------
+Encounter ID: 6913    Type: ed
+Attending: Dr. David Kim    Order: 5
+Department: Emergency Medicine    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Recurrent painless vaginal bleeding described as sudden gush while standing; denies contractions or trauma.
+
+[HPI (modified)]
+The patient returns with recurrent painless vaginal bleeding in the setting of known complete placenta previa, following a similar presentation approximately one month prior, describing bleeding that began suddenly this morning. She says she was standing in her kitchen when she felt a gush of blood, but has had no contractions, abdominal pain, or trauma. The bleeding has since slowed but has not stopped completely. She denies recent intercourse and has had no vaginal exams recently. Fetal movements are normal.
+
+[PMH (modified)]
+Active Problem List:
+- Stress urinary incontinence (diagnosed 2020-01-15)
+- Placenta accreta (diagnosed 2021-01-15)
+- Placenta previa (complete) (diagnosed 2023-01-15)
+- Conservative management of placenta previa with bed rest (diagnosed 2023-02-15)
+- Placenta previa (diagnosed 2023-03-15)
+- History of gestational diabetes mellitus
+
+Her two prior deliveries were by cesarean section.
+
+[PSH (modified)]
+- Low transverse cesarean section x2
+- Dilation and curettage
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Metformin 500 mg oral twice daily
+- Prenatal vitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Type 2 diabetes mellitus (mother)
+- Preeclampsia (sister)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: Occasional (1-2 drinks per month). Occupation: Elementary school teacher.
+
+[VITALS]
+Vital signs are stable and fetal heart rate tracing is reactive.
+
+[PHYSICAL_EXAM]
+Physical exam shows a soft, non-tender uterus without contractions. There is visible blood in the vaginal vault, but no active bleeding. A sterile speculum exam is performed, but digital cervical examination is deferred.
+
+[PLAN]
+Transabdominal ultrasound is ordered.
+
+Encounter 7 — 2023-05-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6910    Type: inpatient
+Attending: Dr. Lisa Thompson    Order: 6
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Regular painful contractions every 5 minutes for 2 hours at 35 weeks gestation.
+
+[HPI (modified)]
+The patient with gestational diabetes, stress incontinence, placental accreta, and placenta previa presents. She is currently at 35 weeks gestation with an uncomplicated pregnancy and appropriate prenatal care.
+
+[PMH (modified)]
+Active Problem List:
+- Stress urinary incontinence (diagnosed 2020-01-15)
+- Placenta accreta (diagnosed 2021-01-15)
+- Placenta previa (complete) (diagnosed 2023-01-15)
+- Conservative management of placenta previa with bed rest (diagnosed 2023-02-15)
+- Placenta previa (diagnosed 2023-03-15)
+- History of gestational diabetes mellitus
+
+She reports that her previous delivery was via cesarean section due to fetal distress.
+
+[PSH (modified)]
+- Low transverse cesarean section x2
+- Dilation and curettage
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Metformin 500 mg oral twice daily
+- Prenatal vitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Type 2 diabetes mellitus (mother)
+- Preeclampsia (sister)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: Occasional (1-2 drinks per month). Occupation: Elementary school teacher.
+
+[VITALS]
+On examination, her vital signs are stable,
+
+[PHYSICAL_EXAM]
+Fetal heart tones are normal. The cervix is dilated to 4 cm, and the fetus is in a breech presentation. There is no evidence of placental abruption or fetal distress.
+
+Encounter 8 — 2023-08-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6911    Type: inpatient
+Attending: Dr. Sarah Chen    Order: 7
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Admitted for elective repeat cesarean delivery at 38 weeks gestation.
+
+[HPI (modified)]
+Patient with prior placenta accreta and recent bleeding presents for elective cesarean delivery at 38 weeks. During delivery, the infant is delivered without difficulty; however, the placenta cannot be removed manually. The umbilical cord stretches but does not detach, and brisk vaginal bleeding follows. The uterus remains soft despite uterotonic administration.
+
+[PMH (modified)]
+Active Problem List:
+- Stress urinary incontinence (diagnosed 2020-01-15)
+- Placenta accreta (diagnosed 2021-01-15)
+- Placenta previa (complete) (diagnosed 2023-01-15)
+- Conservative management of placenta previa with bed rest (diagnosed 2023-02-15)
+- Placenta previa (diagnosed 2023-03-15)
+- Preterm labor (diagnosed 2023-05-15)
+- History of gestational diabetes mellitus
+
+Her obstetric history includes two prior cesarean sections and one dilation and curettage procedure after a spontaneous abortion.
+
+[PSH (modified)]
+- Low transverse cesarean section x2
+- Dilation and curettage
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Metformin 500 mg oral twice daily
+- Prenatal vitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Type 2 diabetes mellitus (mother)
+- Preeclampsia (sister)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: Occasional (1-2 drinks per month). Occupation: Elementary school teacher.

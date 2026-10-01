@@ -1,0 +1,462 @@
+PATIENT RECORD — ID 1674
+======================================================================
+Age: 30    Sex: F
+Race/Ethnicity: Non-Hispanic White    Insurance: Commercial PPO
+Total Encounters: 8    Generation Seed: 3734
+
+Primary Diagnoses:
+  - Gestational hypertension
+  - Conservative management of placenta previa with bed rest
+  - Maternal chorioamnionitis
+  - Preterm premature rupture of membranes
+  - Hypotension due to neuraxial anesthesia
+  - Intra-amniotic infection (Chorioamnionitis) complicating Preterm Premature Rupture of Membranes
+  - Congenital cytomegalovirus infection
+  - Pelvic Girdle Pain (Pregnancy-related)
+
+Comorbidities:
+  - Pregnancy at 32 weeks gestation
+  - Multiparity
+  - Personal History of Cholelithiasis
+
+----------------------------------------------------------------------
+PATIENT PROFILE
+----------------------------------------------------------------------
+Sex: F
+Age at First Encounter: 30
+Race/Ethnicity: Non-Hispanic White
+Insurance: Commercial PPO
+Occupation: Elementary school teacher
+Smoking Status: Never smoker
+Alcohol Use: None (pregnant)
+
+Allergies:
+  - No known drug allergies
+
+Chronic Conditions:
+  - Iron deficiency anemia
+
+Home Medications:
+  - Prenatal vitamin - 1 tablet daily
+  - Ferrous sulfate - 325 mg daily
+
+Surgical History:
+None
+
+Family History:
+  - Maternal history of preeclampsia
+  - Paternal history of hypertension
+
+======================================================================
+ENCOUNTERS (8)
+======================================================================
+
+Encounter 1 — 2020-01-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6820    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 0
+Department: Obstetrics & Gynecology    Gen. Method: template
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Persistent low back pain for 2 weeks, dull ache worsening by end of day and radiating to buttocks
+
+[HPI]
+She presents to her obstetrician with a 2-week history of persistent low back pain. She describes the pain as a dull ache that worsens by the end of the day and radiates to her buttocks. She denies any trauma, vaginal bleeding, or contractions. She is concerned about the impact of the pain on her ability to work and care for her other child.
+
+[PMH (modified)]
+Active Problem List:
+- Iron deficiency anemia
+
+Her pregnancy has been uncomplicated.
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin 1 tablet daily
+- Ferrous sulfate 325 mg daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Maternal history of preeclampsia
+- Paternal history of hypertension
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (pregnant). Occupation: Elementary school teacher.
+
+[PHYSICAL_EXAM]
+On physical examination, there is no spinal tenderness, neurological deficits, or signs of infection. Fetal heart tones are normal.
+
+[PLAN]
+She inquires about safe treatment options during pregnancy.
+
+Encounter 2 — 2020-03-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6819    Type: outpatient
+Attending: Dr. Michael Rodriguez    Order: 1
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine prenatal visit, reports decreased fetal movement compared to first pregnancy
+
+[HPI (modified)]
+Patient returns for prenatal care with iron deficiency anemia and prior back pain. She reports feeling well but mentions her baby seems less active than she remembers from her first pregnancy.
+
+[PMH (modified)]
+Active Problem List:
+- Pelvic Girdle Pain (Pregnancy-related) (diagnosed 2020-01-15)
+- Iron deficiency anemia
+
+She has had an uncomplicated prenatal course thus far. Her first child is healthy with normal development.
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin 1 tablet daily
+- Ferrous sulfate 325 mg daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Maternal history of preeclampsia
+- Paternal history of hypertension
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (pregnant). Occupation: Elementary school teacher.
+
+[ROS]
+She denies any fever, rash, or exposure to sick contacts.
+
+[VITALS]
+Her vital signs are within normal limits
+
+[PHYSICAL_EXAM]
+Fetal heart tones are normal
+
+[LABS]
+The patient's serology returns with the following results:
+
+- IgG for cytomegalovirus (CMV): Positive
+- IgM for CMV: Positive
+- Rubella IgG: Positive
+- Rubella IgM: Negative
+- Toxoplasma gondii IgG: Negative
+- Toxoplasma gondii IgM: Negative
+
+[IMAGING]
+However, an ultrasound is performed due to her concern about decreased fetal movements, which reveals bilateral periventricular intracranial calcifications, intrahepatic calcifications, and evidence of fetal growth restriction. There are no signs of placental abnormalities.
+
+Encounter 3 — 2020-05-15 — Emergency Medicine
+----------------------------------------------------------------------
+Encounter ID: 6814    Type: ed
+Attending: Dr. Jennifer Park    Order: 2
+Department: Emergency Medicine    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Sudden onset of painless vaginal bleeding, history of low-lying placenta noted at 20 weeks
+
+[HPI (modified)]
+This 30-year-old with iron deficiency anemia and back pain returns. She reports feeling the baby move less frequently over the past hour. Her pregnancy has been complicated by a low-lying placenta noted on an ultrasound at 20 weeks gestation.
+
+[PMH (modified)]
+Active Problem List:
+- Pelvic Girdle Pain (Pregnancy-related) (diagnosed 2020-01-15)
+- Congenital cytomegalovirus infection (diagnosed 2020-03-15)
+- Iron deficiency anemia
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin 1 tablet daily
+- Ferrous sulfate 325 mg daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Maternal history of preeclampsia
+- Paternal history of hypertension
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (pregnant). Occupation: Elementary school teacher.
+
+[PHYSICAL_EXAM]
+On examination, her vital signs are stable, and the abdomen is soft and non-tender. Fetal heart tones are 110 beats per minute. A speculum examination is performed, and shows a small amount of blood in the vaginal canal, but no active bleeding. The cervix is closed and there is no evidence of placental tissue in the cervical os.
+
+[LABS]
+Hemoglobin: 12.2 g/dL
+Platelets: 250,000 /μL
+Prothrombin time (PT): 12 seconds
+Partial thromboplastin time (PTT): 30 seconds
+
+[IMAGING]
+An emergency bedside ultrasound reveals a placenta that is now appropriately located away from the cervix, but there are fetal vessels crossing the internal cervical os.
+
+Encounter 4 — 2020-07-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6813    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 3
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine prenatal visit with occasional mild headaches over past week, baseline BP 118/74
+
+[HPI (modified)]
+Patient with iron deficiency returns for prenatal care following prior back pain, decreased fetal movement, and vaginal bleeding. She reports feeling generally well but mentions occasional mild headaches over the past week. Her baseline blood pressure at the beginning of pregnancy was 118/74 mmHg. The patient denies any visual disturbances or right upper quadrant pain.
+
+[PMH (modified)]
+Active Problem List:
+- Pelvic Girdle Pain (Pregnancy-related) (diagnosed 2020-01-15)
+- Congenital cytomegalovirus infection (diagnosed 2020-03-15)
+- Conservative management of placenta previa with bed rest (diagnosed 2020-05-15)
+- Iron deficiency anemia
+
+Her pregnancy has been uncomplicated thus far.
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin 1 tablet daily
+- Ferrous sulfate 325 mg daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Maternal history of preeclampsia
+- Paternal history of hypertension
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (pregnant). Occupation: Elementary school teacher.
+
+[VITALS]
+Her blood pressure is measured at 152/96 mmHg. Repeat measurement confirms persistent hypertension.
+
+[PHYSICAL_EXAM]
+Physical examination is unremarkable with no signs of edema, and reflexes are normal. Fundoscopic examination does not reveal any retinal changes.
+
+[LABS]
+Urinalysis shows a trace amount of protein.
+
+Laboratory Values:
+- Hemoglobin: 12.8 g/dL
+- Platelet count: 210,000/mm³
+- Serum creatinine: 0.8 mg/dL
+- AST: 28 U/L
+- ALT: 26 U/L
+- Urine protein: Trace
+
+Encounter 5 — 2020-08-15 — Emergency Medicine
+----------------------------------------------------------------------
+Encounter ID: 6816    Type: ed
+Attending: Dr. David Kim    Order: 4
+Department: Emergency Medicine    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Sudden gush of clear fluid from vagina while shopping 1 hour ago, denies bleeding or contractions
+
+[HPI (modified)]
+The patient is a 30-year-old female with iron deficiency anemia. She has a history of gestational hypertension, placenta previa, and congenital cytomegalovirus infection during this pregnancy and presents to the emergency department with a complaint of sudden gush of clear fluid from the vagina while shopping 1 hour ago. She denies any vaginal bleeding, contractions, or abdominal pain.
+
+[PMH (modified)]
+Active Problem List:
+- Pelvic Girdle Pain (Pregnancy-related) (diagnosed 2020-01-15)
+- Congenital cytomegalovirus infection (diagnosed 2020-03-15)
+- Conservative management of placenta previa with bed rest (diagnosed 2020-05-15)
+- Gestational hypertension (diagnosed 2020-07-15)
+- Iron deficiency anemia
+
+Her previous pregnancy was uncomplicated, and she had a vaginal delivery at term.
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin 1 tablet daily
+- Ferrous sulfate 325 mg daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Maternal history of preeclampsia
+- Paternal history of hypertension
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (pregnant). Occupation: Elementary school teacher.
+
+[VITALS]
+Her temperature is 36.8°C (98.2°F), blood pressure is 120/75 mmHg, pulse is 88/min, and respiratory rate is 16/min.
+
+[PHYSICAL_EXAM]
+Speculum examination confirms pooling of clear fluid in the posterior fornix. Nitrazine test is positive, and ferning is observed under the microscope.
+
+[LABS]
+Complete blood count and C-reactive protein are within normal limits.
+
+[OTHER_STUDIES]
+Fetal heart tracing is reassuring with a baseline of 140/min, moderate variability, no decelerations, and no contractions.
+
+[PLAN]
+The patient is admitted for inpatient monitoring.
+
+Encounter 6 — 2020-08-15 — Emergency Medicine
+----------------------------------------------------------------------
+Encounter ID: 6815    Type: ed
+Attending: Dr. Aisha Patel    Order: 5
+Department: Emergency Medicine    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Clear vaginal fluid leakage and lower abdominal pain for 6 hours, denies trauma or sexual intercourse
+
+[HPI (modified)]
+Patient with iron deficiency anemia returns to the emergency department after presenting earlier today with fluid leakage, now with a 6-hour history of clear vaginal fluid leakage and lower abdominal pain. She denies any trauma or sexual intercourse prior to symptom onset.
+
+[PMH (modified)]
+Active Problem List:
+- Pelvic Girdle Pain (Pregnancy-related) (diagnosed 2020-01-15)
+- Congenital cytomegalovirus infection (diagnosed 2020-03-15)
+- Conservative management of placenta previa with bed rest (diagnosed 2020-05-15)
+- Gestational hypertension (diagnosed 2020-07-15)
+- Preterm premature rupture of membranes (diagnosed 2020-08-15)
+- Iron deficiency anemia
+
+Her prenatal course was unremarkable except for mild anemia.
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin 1 tablet daily
+- Ferrous sulfate 325 mg daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Maternal history of preeclampsia
+- Paternal history of hypertension
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (pregnant). Occupation: Elementary school teacher.
+
+[VITALS]
+Temperature is 38.6°C (101.5°F), blood pressure is 110/70 mmHg, pulse is 110/min, and respiratory rate is 20/min
+
+[PHYSICAL_EXAM]
+Fetal heart rate tracing shows a baseline of 160/min with minimal variability and no accelerations or decelerations. Speculum examination confirms pooling of fluid in the posterior vaginal fornix. The fluid is positive for ferning and nitrazine test.
+
+[LABS]
+White blood cell count: 15,000/mm³
+- Neutrophils: 80%
+- Hemoglobin: 10.5 g/dL
+- C-reactive protein: 25 mg/L (normal <10 mg/L)
+
+Encounter 7 — 2020-08-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6818    Type: inpatient
+Attending: Dr. James Thompson    Order: 6
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Clear vaginal fluid leakage with mild lower abdominal discomfort for 4 hours, admitted for management
+
+[HPI (modified)]
+This patient returns for admission following ED presentation today, denying recent sexual intercourse or vaginal manipulation. Her prenatal course was unremarkable until this episode.
+
+[PMH (modified)]
+Active Problem List:
+- Pelvic Girdle Pain (Pregnancy-related) (diagnosed 2020-01-15)
+- Congenital cytomegalovirus infection (diagnosed 2020-03-15)
+- Conservative management of placenta previa with bed rest (diagnosed 2020-05-15)
+- Gestational hypertension (diagnosed 2020-07-15)
+- Preterm premature rupture of membranes (diagnosed 2020-08-15)
+- Maternal chorioamnionitis (diagnosed 2020-08-15)
+- Iron deficiency anemia
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin 1 tablet daily
+- Ferrous sulfate 325 mg daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Maternal history of preeclampsia
+- Paternal history of hypertension
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (pregnant). Occupation: Elementary school teacher.
+
+[VITALS]
+On examination, her temperature is 38.6°C (101.5°F), heart rate is 110 bpm, blood pressure is 120/75 mmHg, and respiratory rate is 18 breaths per minute.
+
+[PHYSICAL_EXAM]
+Fetal heart tracing shows a baseline rate of 170 bpm with minimal variability and no decelerations. Sterile speculum examination confirms pooling of fluid in the posterior vaginal fornix. Nitrazine test is positive, and ferning is observed under microscopy.
+
+[LABS]
+Complete blood count reveals:
+
+- White blood cell count: 15,000/µL
+- Hemoglobin: 12.2 g/dL
+- Platelet count: 210,000/µL
+
+C-reactive protein (CRP) is elevated. Based on the clinical findings,
+
+Encounter 8 — 2020-09-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6817    Type: inpatient
+Attending: Dr. Lisa Wong    Order: 7
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Active labor requesting pain relief, epidural placed 2 hours ago with subsequent hypotension and late decelerations
+
+[HPI (modified)]
+The 30-year-old with iron deficiency anemia, gestational hypertension, and recent intra-amniotic infection is in active labor. An epidural analgesia is placed without immediate complications. Two hours later, the fetal heart rate monitor shows recurrent late decelerations.
+
+[PMH (modified)]
+Active Problem List:
+- Pelvic Girdle Pain (Pregnancy-related) (diagnosed 2020-01-15)
+- Congenital cytomegalovirus infection (diagnosed 2020-03-15)
+- Conservative management of placenta previa with bed rest (diagnosed 2020-05-15)
+- Gestational hypertension (diagnosed 2020-07-15)
+- Preterm premature rupture of membranes (diagnosed 2020-08-15)
+- Maternal chorioamnionitis (diagnosed 2020-08-15)
+- Intra-amniotic infection (Chorioamnionitis) complicating Preterm Premature Rupture of Membranes (diagnosed 2020-08-15)
+- Iron deficiency anemia
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin 1 tablet daily
+- Ferrous sulfate 325 mg daily
+
+[ALLERGIES]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Maternal history of preeclampsia
+- Paternal history of hypertension
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None (pregnant). Occupation: Elementary school teacher.
+
+[VITALS]
+The patient's blood pressure is noted to have dropped from 120/80 mmHg to 90/60 mmHg. Her pulse is 88 beats per minute, and she is breathing comfortably at 16 breaths per minute.
+
+[PHYSICAL_EXAM]
+On examination, her skin is warm and well-perfused, and there is no evidence of bleeding.
+
+[PLAN]
+The obstetrician is called to assess the situation.

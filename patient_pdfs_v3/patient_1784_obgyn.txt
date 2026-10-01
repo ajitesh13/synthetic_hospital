@@ -1,0 +1,467 @@
+PATIENT RECORD — ID 1784
+======================================================================
+Age: 28    Sex: F
+Race/Ethnicity: Non-Hispanic White    Insurance: Private PPO
+Total Encounters: 7    Generation Seed: 3723
+
+Primary Diagnoses:
+  - Physiologic dyspnea of pregnancy
+  - Pregnancy (second trimester)
+  - Acute fatty liver of pregnancy
+  - Gastroschisis
+  - Myelomeningocele with Chiari II malformation and hydrocephalus
+  - Physiologic pruritus gravidarum
+
+Comorbidities:
+  - Pregnancy (second trimester)
+
+----------------------------------------------------------------------
+PATIENT PROFILE
+----------------------------------------------------------------------
+Sex: F
+Age at First Encounter: 28
+Race/Ethnicity: Non-Hispanic White
+Insurance: Private PPO
+Occupation: Retail store manager
+Smoking Status: Never smoker
+Alcohol Use: None
+
+Allergies:
+  - Latex (Type I hypersensitivity)
+  - Sulfa drugs (rash)
+
+Chronic Conditions:
+  - Polycystic ovary syndrome
+  - Iron deficiency anemia
+  - Generalized anxiety disorder
+
+Home Medications:
+  - Prenatal vitamin (high-dose folic acid) - 1 tablet PO daily (containing folate 4mg)
+  - Ferrous sulfate - 325mg (65mg elemental iron) PO daily
+  - Metformin - 500mg PO twice daily
+
+Surgical History:
+  - Tonsillectomy (age 12)
+  - Laparoscopic right ovarian cystectomy (corpus luteum hemorrhage, age 24)
+
+Family History:
+  - Maternal first cousin with myelomeningocele
+  - Paternal aunt with systemic lupus erythematosus
+  - Mother with type 2 diabetes mellitus
+  - Father with essential hypertension
+
+======================================================================
+ENCOUNTERS (7)
+======================================================================
+
+Encounter 1 — 2020-01-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7470    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 0
+Department: Obstetrics & Gynecology    Gen. Method: template
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine prenatal visit at 16 weeks of gestation
+
+[HPI]
+She reports feeling well with no complaints.
+
+[PMH (modified)]
+Active Problem List:
+- Polycystic ovary syndrome
+- Iron deficiency anemia
+- Generalized anxiety disorder
+
+Her previous pregnancy was uncomplicated, and she delivered a healthy full-term infant.
+
+[PSH (modified)]
+- Tonsillectomy (age 12)
+- Laparoscopic right ovarian cystectomy (corpus luteum hemorrhage, age 24)
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin (high-dose folic acid) 1 tablet PO daily (containing folate 4mg)
+- Ferrous sulfate 325mg (65mg elemental iron) PO daily
+- Metformin 500mg PO twice daily
+
+[ALLERGIES (modified)]
+Latex (Type I hypersensitivity), Sulfa drugs (rash)
+
+[FAMILY_HISTORY]
+Her family history is non-contributory.
+
+[SOCIAL_HISTORY]
+She does not smoke, drink alcohol, or use illicit drugs.
+
+[VITALS]
+On examination, her blood pressure is 120/78 mmHg, heart rate is 72 beats per minute
+
+[PHYSICAL_EXAM]
+Her abdomen is consistent with a 16-week gestation.
+
+[LABS]
+Her routine second-trimester maternal serum screening returns with the following results:
+
+- Human chorionic gonadotropin (hCG): within normal limits
+- Unconjugated estriol (uE3): within normal limits
+- Inhibin A: within normal limits
+- Alpha-fetoprotein (AFP): significantly elevated
+
+[IMAGING]
+An ultrasound is performed to evaluate the fetal anatomy. The ultrasound reveals a single fetus with a normal amount of amniotic fluid and no evidence of neural tube defects. However, the fetus has an anterior abdominal wall defect with herniation of the bowel.
+
+[ASSESSMENT]
+Based on the clinical scenario and the ultrasound findings,
+
+Encounter 2 — 2020-03-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7467    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 1
+Department: Obstetrics & Gynecology    Gen. Method: template
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine prenatal visit, feeling well with no complaints
+
+[PMH (modified)]
+Active Problem List:
+- Gastroschisis (diagnosed 2020-01-15)
+- Polycystic ovary syndrome
+- Iron deficiency anemia
+- Generalized anxiety disorder
+
+She has had an uncomplicated pregnancy thus far.
+
+[PSH (modified)]
+- Tonsillectomy (age 12)
+- Laparoscopic right ovarian cystectomy (corpus luteum hemorrhage, age 24)
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin (high-dose folic acid) 1 tablet PO daily (containing folate 4mg)
+- Ferrous sulfate 325mg (65mg elemental iron) PO daily
+- Metformin 500mg PO twice daily
+
+[ALLERGIES (modified)]
+Latex (Type I hypersensitivity), Sulfa drugs (rash)
+
+[FAMILY_HISTORY (modified)]
+- Maternal first cousin with myelomeningocele
+- Paternal aunt with systemic lupus erythematosus
+- Mother with type 2 diabetes mellitus
+- Father with essential hypertension
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Retail store manager.
+
+[VITALS]
+Her blood pressure is 120/75 mmHg, and her pulse is 78 beats per minute.
+
+[PHYSICAL_EXAM]
+Physical examination is normal with no signs of edema.
+
+[LABS]
+Laboratory tests reveal the following:
+
+- Hemoglobin: 11.2 g/dL
+- Hematocrit: 33%
+- Blood urea nitrogen (BUN): 8 mg/dL
+- Serum creatinine: 0.5 mg/dL
+- Urine protein: 150 mg/24 hours
+
+Encounter 3 — 2020-06-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7472    Type: outpatient
+Attending: Dr. Maria Rodriguez    Order: 2
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Sharp, intermittent right-sided lower abdominal and pelvic pain
+
+[HPI (modified)]
+The 28-year-old with PCOS and iron deficiency anemia returns for prenatal care of pregnancy with fetal gastroschisis. She reports a 5-day history of sharp, intermittent right-sided lower abdominal and pelvic pain that worsens with sudden movements and when changing positions, and that the pain sometimes radiates to her right groin and vaginal area. She denies vaginal bleeding, contractions, or urinary symptoms.
+
+[PMH (modified)]
+Active Problem List:
+- Gastroschisis (diagnosed 2020-01-15)
+- Pregnancy (second trimester) (diagnosed 2020-03-15)
+- Polycystic ovary syndrome
+- Iron deficiency anemia
+- Generalized anxiety disorder
+
+Her prenatal course has been uncomplicated so far, and she is otherwise healthy.
+
+[PSH (modified)]
+- Tonsillectomy (age 12)
+- Laparoscopic right ovarian cystectomy (corpus luteum hemorrhage, age 24)
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin (high-dose folic acid) 1 tablet PO daily (containing folate 4mg)
+- Ferrous sulfate 325mg (65mg elemental iron) PO daily
+- Metformin 500mg PO twice daily
+
+[ALLERGIES (modified)]
+Latex (Type I hypersensitivity), Sulfa drugs (rash)
+
+[FAMILY_HISTORY (modified)]
+- Maternal first cousin with myelomeningocele
+- Paternal aunt with systemic lupus erythematosus
+- Mother with type 2 diabetes mellitus
+- Father with essential hypertension
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Retail store manager.
+
+[PHYSICAL_EXAM]
+On examination, her abdomen is soft and non-tender except for mild discomfort on deep palpation over the right lower quadrant. The uterus is palpable at the level of the umbilicus, consistent with gestational age, and there is no cervical dilation.
+
+[ASSESSMENT]
+The clinician suspects that her symptoms are due to stretching of a specific pelvic structure associated with the expanding uterus.
+
+Encounter 4 — 2023-01-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7471    Type: outpatient
+Attending: Dr. Aisha Patel    Order: 3
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+First prenatal visit at 18 weeks gestation
+
+[HPI (modified)]
+This 31-year-old with PCOS and prior 2020 pregnancy complicated by gastroschisis presents at 18 weeks for initial prenatal care. She reports that she did not know she was pregnant until 2 months ago.
+
+[PMH (modified)]
+Active Problem List:
+- Gastroschisis (diagnosed 2020-01-15)
+- Pregnancy (second trimester) (diagnosed 2020-03-15)
+- Physiologic pruritus gravidarum (diagnosed 2020-06-15)
+- Polycystic ovary syndrome
+- Iron deficiency anemia
+- Generalized anxiety disorder
+
+[PSH (modified)]
+- Tonsillectomy (age 12)
+- Laparoscopic right ovarian cystectomy (corpus luteum hemorrhage, age 24)
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin (high-dose folic acid) 1 tablet PO daily (containing folate 4mg)
+- Ferrous sulfate 325mg (65mg elemental iron) PO daily
+- Metformin 500mg PO twice daily
+
+[ALLERGIES (modified)]
+Latex (Type I hypersensitivity), Sulfa drugs (rash)
+
+[FAMILY_HISTORY (modified)]
+- Maternal first cousin with myelomeningocele
+- Paternal aunt with systemic lupus erythematosus
+- Mother with type 2 diabetes mellitus
+- Father with essential hypertension
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Retail store manager.
+
+[IMAGING]
+Fetal ultrasound reveals a posterior spinal defect with a protruding sac.
+
+[ASSESSMENT]
+A defect of
+
+Encounter 5 — 2023-03-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7469    Type: outpatient
+Attending: Dr. Aisha Patel    Order: 4
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Shortness of breath for the past two weeks
+
+[HPI (modified)]
+The patient returns for prenatal follow-up of her current pregnancy complicated by fetal myelomeningocele, following a prior pregnancy with gastroschisis. She reports dyspnea more pronounced lying flat and improving sitting up, denying chest pain, cough, or wheezing.
+
+[PMH (modified)]
+Active Problem List:
+- Gastroschisis (diagnosed 2020-01-15)
+- Pregnancy (second trimester) (diagnosed 2020-03-15)
+- Physiologic pruritus gravidarum (diagnosed 2020-06-15)
+- Myelomeningocele with Chiari II malformation and hydrocephalus (diagnosed 2023-01-15)
+- Polycystic ovary syndrome
+- Iron deficiency anemia
+- Generalized anxiety disorder
+
+She has had an uncomplicated pregnancy thus far.
+
+[PSH (modified)]
+- Tonsillectomy (age 12)
+- Laparoscopic right ovarian cystectomy (corpus luteum hemorrhage, age 24)
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin (high-dose folic acid) 1 tablet PO daily (containing folate 4mg)
+- Ferrous sulfate 325mg (65mg elemental iron) PO daily
+- Metformin 500mg PO twice daily
+
+[ALLERGIES (modified)]
+Latex (Type I hypersensitivity), Sulfa drugs (rash)
+
+[FAMILY_HISTORY (modified)]
+- Maternal first cousin with myelomeningocele
+- Paternal aunt with systemic lupus erythematosus
+- Mother with type 2 diabetes mellitus
+- Father with essential hypertension
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Retail store manager.
+
+[VITALS]
+On examination, her respiratory rate is 18 breaths per minute, heart rate is 88 beats per minute, blood pressure is 120/75 mmHg, and oxygen saturation is 98% on room air.
+
+[PHYSICAL_EXAM]
+Lung auscultation reveals clear breath sounds bilaterally. Cardiac examination is normal with no murmurs, rubs, or gallops. Lower extremity examination shows no edema.
+
+[LABS]
+Laboratory tests reveal the following:
+
+- Hemoglobin: 11.5 g/dL
+- Hematocrit: 34%
+- Platelet count: 220,000/mm³
+- Arterial blood gas (ABG):
+- pH: 7.44
+- PaCO2: 30 mmHg
+- PaO2: 105 mmHg
+- HCO3-: 18 mEq/L
+
+Encounter 6 — 2023-05-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7466    Type: outpatient
+Attending: Dr. Priya Sharma    Order: 5
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Recent changes in her appearance including facial hair growth and acne
+
+[HPI (modified)]
+The patient is a 31-year-old with polycystic ovary syndrome who returns for continued prenatal care following her recent evaluation for dyspnea. She presents with her husband, concerned about recent changes in her appearance. She reports a significant increase in facial hair growth, deepening of her voice, and acne over the past two months. She denies any visual changes, headaches, or abdominal pain.
+
+[PMH (modified)]
+Active Problem List:
+- Gastroschisis (diagnosed 2020-01-15)
+- Pregnancy (second trimester) (diagnosed 2020-03-15)
+- Physiologic pruritus gravidarum (diagnosed 2020-06-15)
+- Myelomeningocele with Chiari II malformation and hydrocephalus (diagnosed 2023-01-15)
+- Physiologic dyspnea of pregnancy (diagnosed 2023-03-15)
+- Polycystic ovary syndrome
+- Iron deficiency anemia
+- Generalized anxiety disorder
+
+Her pregnancy has been uncomplicated thus far.
+
+[PSH (modified)]
+- Tonsillectomy (age 12)
+- Laparoscopic right ovarian cystectomy (corpus luteum hemorrhage, age 24)
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin (high-dose folic acid) 1 tablet PO daily (containing folate 4mg)
+- Ferrous sulfate 325mg (65mg elemental iron) PO daily
+- Metformin 500mg PO twice daily
+
+[ALLERGIES (modified)]
+Latex (Type I hypersensitivity), Sulfa drugs (rash)
+
+[FAMILY_HISTORY (modified)]
+- Maternal first cousin with myelomeningocele
+- Paternal aunt with systemic lupus erythematosus
+- Mother with type 2 diabetes mellitus
+- Father with essential hypertension
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Retail store manager.
+
+[VITALS]
+Her blood pressure is 120/78 mmHg, heart rate is 72 beats per minute
+
+[PHYSICAL_EXAM]
+On physical examination, she appears well. She has noticeable facial hirsutism and temporal balding.
+
+[LABS]
+Her laboratory tests are as follows:
+
+- Hemoglobin: 12.5 g/dL
+- Platelets: 250,000/mm^3
+- Fasting glucose: 88 mg/dL
+- Total testosterone: 150 ng/dL (normal non-pregnant female range: 15-70 ng/dL)
+- Dehydroepiandrosterone sulfate (DHEAS): 180 µg/dL (normal non-pregnant female range: 35-430 µg/dL)
+
+[IMAGING]
+Pelvic ultrasound reveals bilateral, multicystic ovarian masses measuring 3 cm on the right and 4 cm on the left. There are no signs of fetal distress or abnormalities.
+
+Encounter 7 — 2023-07-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7468    Type: inpatient
+Attending: Dr. James O'Brien    Order: 6
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine prenatal visit with malaise and palpitations
+
+[HPI (modified)]
+The patient with prior gastroschisis returns for prenatal care and reports feeling generally well but mentions occasional palpitations and increased sweating, which she attributes to her pregnancy.
+
+[PMH (modified)]
+Active Problem List:
+- Gastroschisis (diagnosed 2020-01-15)
+- Pregnancy (second trimester) (diagnosed 2020-03-15)
+- Physiologic pruritus gravidarum (diagnosed 2020-06-15)
+- Myelomeningocele with Chiari II malformation and hydrocephalus (diagnosed 2023-01-15)
+- Physiologic dyspnea of pregnancy (diagnosed 2023-03-15)
+- Polycystic ovary syndrome
+- Iron deficiency anemia
+- Generalized anxiety disorder
+
+[PSH (modified)]
+- Tonsillectomy (age 12)
+- Laparoscopic right ovarian cystectomy (corpus luteum hemorrhage, age 24)
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin (high-dose folic acid) 1 tablet PO daily (containing folate 4mg)
+- Ferrous sulfate 325mg (65mg elemental iron) PO daily
+- Metformin 500mg PO twice daily
+
+[ALLERGIES (modified)]
+Latex (Type I hypersensitivity), Sulfa drugs (rash)
+
+[FAMILY_HISTORY]
+Her family history is noncontributory.
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Retail store manager.
+
+[VITALS]
+Her blood pressure is 118/76 mmHg, heart rate is 88 beats per minute
+
+[PHYSICAL_EXAM]
+She appears euthyroid. Her thyroid is not enlarged or tender on palpation, and no nodules are palpable. Reflexes are normal, and no tremor is noted.
+
+[LABS]
+Routine laboratory tests were performed, and the results are as follows:
+
+- Human chorionic gonadotropin (hCG): Elevated for gestational age
+- Thyroid-stimulating hormone (TSH): Slightly decreased
+- Free thyroxine (FT4): Upper limit of normal
+- Total thyroxine (TT4): Elevated

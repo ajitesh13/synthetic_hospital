@@ -1,0 +1,431 @@
+PATIENT RECORD — ID 2399
+======================================================================
+Age: 13    Sex: M
+Race/Ethnicity: African American    Insurance: Medicaid
+Total Encounters: 8    Generation Seed: 364
+
+Primary Diagnoses:
+  - Slipped capital femoral epiphysis
+  - Slipped Capital Femoral Epiphysis of Left Hip
+  - Pseudogynecomastia
+  - Slipped Capital Femoral Epiphysis
+
+Comorbidities:
+  - Obesity
+  - Adolescent growth spurt
+
+----------------------------------------------------------------------
+PATIENT PROFILE
+----------------------------------------------------------------------
+Sex: M
+Age at First Encounter: 13
+Race/Ethnicity: African American
+Insurance: Medicaid
+Occupation: 8th grade middle school student
+Smoking Status: Never
+Alcohol Use: None
+
+Allergies:
+  - NKDA
+
+Chronic Conditions:
+  - Asthma, mild persistent
+  - Atopic dermatitis (childhood eczema)
+  - Obesity (BMI >95th percentile for age)
+  - Sedentary lifestyle
+
+Home Medications:
+  - Albuterol sulfate inhalation aerosol - 90 mcg (2 puffs) inhaled every 4-6 hours as needed for wheezing or shortness of breath
+  - Fluticasone propionate inhalation aerosol - 44 mcg (2 puffs) inhaled twice daily for asthma maintenance
+
+Surgical History:
+None
+
+Family History:
+  - Maternal obesity
+  - Paternal asthma
+  - Older brother with history of slipped capital femoral epiphysis
+
+======================================================================
+ENCOUNTERS (8)
+======================================================================
+
+Encounter 1 — 2020-01-15 — Pediatric Endocrinology
+----------------------------------------------------------------------
+Encounter ID: 10342    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 0
+Department: Pediatric Endocrinology    Gen. Method: template
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Concerned about a lump he felt under his left nipple present for about 3 months, occasionally tender.
+
+[HPI]
+He reports that it has been present for about 3 months and is occasionally tender.
+
+[PMH (modified)]
+Active Problem List:
+- Asthma, mild persistent
+- Atopic dermatitis (childhood eczema)
+- Obesity (BMI >95th percentile for age)
+- Sedentary lifestyle
+
+[MEDICATIONS (modified)]
+He denies any use of medications, supplements, or recreational drugs.
+
+Home Medications:
+- Albuterol sulfate inhalation aerosol 90 mcg (2 puffs) inhaled every 4-6 hours as needed for wheezing or shortness of breath
+- Fluticasone propionate inhalation aerosol 44 mcg (2 puffs) inhaled twice daily for asthma maintenance
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Maternal obesity
+- Paternal asthma
+- Older brother with history of slipped capital femoral epiphysis
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: None. Occupation: 8th grade middle school student.
+
+[VITALS]
+His vital signs are within normal limits.
+
+[PHYSICAL_EXAM]
+On examination, a small, firm, mobile disk of tissue is palpable beneath the left areola. The right breast appears normal. There is no overlying skin change, nipple discharge, or axillary lymphadenopathy. His height and weight are at the 60th percentile for his age. Tanner stage is 4 for genitalia and 3 for pubic hair.
+
+[LABS]
+Laboratory values:
+- Complete blood count: Normal
+- Liver function tests: Normal
+- Serum testosterone: Normal
+- Serum estradiol: Slightly elevated
+- Thyroid-stimulating hormone: Normal
+- Human chorionic gonadotropin (hCG): Negative
+
+Encounter 2 — 2020-04-15 — Pediatrics
+----------------------------------------------------------------------
+Encounter ID: 10338    Type: outpatient
+Attending: Dr. James Okafor    Order: 1
+Department: Pediatrics    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Lump beneath his left nipple noticed 3 weeks ago, unchanged in size.
+
+[HPI (modified)]
+This 13-year-old male with mild persistent asthma, eczema, and obesity returns for evaluation of a left breast mass seen in Pediatric Endocrinology in January. He is brought to the clinic by his mother because of a lump beneath his left nipple that he noticed 3 weeks ago. The mass has not changed in size since it was first detected. The patient denies nipple discharge, skin changes, weight loss, or recent trauma to the chest.
+
+[PMH (modified)]
+Active Problem List:
+- Pseudogynecomastia (diagnosed 2020-01-15)
+- Asthma, mild persistent
+- Atopic dermatitis (childhood eczema)
+- Obesity (BMI >95th percentile for age)
+- Sedentary lifestyle
+
+He is otherwise healthy.
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Albuterol sulfate inhalation aerosol 90 mcg (2 puffs) inhaled every 4-6 hours as needed for wheezing or shortness of breath
+- Fluticasone propionate inhalation aerosol 44 mcg (2 puffs) inhaled twice daily for asthma maintenance
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY]
+There is no family history of breast or endocrine disease
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: None. Occupation: 8th grade middle school student.
+
+[PHYSICAL_EXAM]
+On examination, his height and weight are appropriate for age. Secondary sexual characteristics are consistent with Tanner stage IV, including axillary hair and testicular enlargement. There is a 2.5-cm, mildly tender, rubbery, mobile mass directly under the left areola without overlying skin dimpling or erythema. No axillary lymphadenopathy is present, and the right breast is normal. The rest of the physical examination is unremarkable.
+
+Encounter 3 — 2020-09-15 — Orthopedics & Sports Medicine
+----------------------------------------------------------------------
+Encounter ID: 10336    Type: outpatient
+Attending: Dr. Maria Rodriguez    Order: 2
+Department: Orthopedics & Sports Medicine    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+3-month history of dull, aching pain in his left thigh and knee, progressively worsening after basketball.
+
+[HPI (modified)]
+This 13-year-old male with asthma, atopic dermatitis, and obesity previously evaluated for pseudogynecomastia presents with left thigh and knee pain. The pain has progressively worsened, especially after physical activities such as playing basketball. He denies any recent trauma or injury.
+
+[PMH (modified)]
+Active Problem List:
+- Pseudogynecomastia (diagnosed 2020-01-15)
+- Asthma, mild persistent
+- Atopic dermatitis (childhood eczema)
+- Obesity (BMI >95th percentile for age)
+- Sedentary lifestyle
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Albuterol sulfate inhalation aerosol 90 mcg (2 puffs) inhaled every 4-6 hours as needed for wheezing or shortness of breath
+- Fluticasone propionate inhalation aerosol 44 mcg (2 puffs) inhaled twice daily for asthma maintenance
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Maternal obesity
+- Paternal asthma
+- Older brother with history of slipped capital femoral epiphysis
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: None. Occupation: 8th grade middle school student.
+
+[VITALS]
+His vital signs are within normal limits.
+
+[PHYSICAL_EXAM]
+On physical examination, the patient walks with a slight limp favoring his left leg. There is no erythema or warmth over the knee or thigh, but he has limited internal rotation of the left hip.
+
+[IMAGING]
+Radiographs of the left hip are obtained and demonstrate a posterior and medial displacement of the femoral head relative to the femoral neck.
+
+Encounter 4 — 2021-01-15 — Orthopedics & Sports Medicine
+----------------------------------------------------------------------
+Encounter ID: 10341    Type: outpatient
+Attending: Dr. Maria Rodriguez    Order: 3
+Department: Orthopedics & Sports Medicine    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+3-month history of left hip pain radiating to the thigh and knee, worsening with activity and associated with a limp.
+
+[HPI (modified)]
+This 14-year-old male with obesity and asthma returns to the orthopedic clinic with ongoing left lower extremity symptoms. He presents with a 3-month history of left hip pain that radiates to the thigh and occasionally to the knee. The pain worsens with activity and improves with rest. His mother reports that he has been walking with a limp.
+
+[PMH (modified)]
+Active Problem List:
+- Pseudogynecomastia (diagnosed 2020-01-15)
+- Slipped capital femoral epiphysis (diagnosed 2020-09-15)
+- Asthma, mild persistent
+- Atopic dermatitis (childhood eczema)
+- Obesity (BMI >95th percentile for age)
+- Sedentary lifestyle
+
+[MEDICATIONS (modified)]
+He takes albuterol inhaler as needed.
+
+Home Medications:
+- Albuterol sulfate inhalation aerosol 90 mcg (2 puffs) inhaled every 4-6 hours as needed for wheezing or shortness of breath
+- Fluticasone propionate inhalation aerosol 44 mcg (2 puffs) inhaled twice daily for asthma maintenance
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Maternal obesity
+- Paternal asthma
+- Older brother with history of slipped capital femoral epiphysis
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: None. Occupation: 8th grade middle school student.
+
+[PHYSICAL_EXAM]
+On physical examination, the patient has a waddling gait and limited internal rotation of the left hip. He is unable to bear weight on the left leg without experiencing pain.
+
+[LABS]
+Complete blood count: within normal limits
+- Erythrocyte sedimentation rate: 15 mm/hr (normal)
+- C-reactive protein: 0.5 mg/dL (normal)
+
+[IMAGING]
+An anteroposterior radiograph of the pelvis shows widening and irregularity of the left proximal femoral physis.
+
+Encounter 5 — 2021-05-15 — Orthopedics & Sports Medicine
+----------------------------------------------------------------------
+Encounter ID: 10335    Type: outpatient
+Attending: Dr. David Kim    Order: 4
+Department: Orthopedics & Sports Medicine    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+3-week history of left knee pain, particularly after playing basketball, denies trauma.
+
+[HPI (modified)]
+The patient with obesity returns for evaluation of recurrent left lower extremity symptoms, having presented in September 2020 and January 2021 with similar hip and knee pain. He reports a 3-week history of left knee pain, particularly after playing basketball. He denies any trauma or injury. His mother mentions that he has had a recent growth spurt and has gained significant weight over the past year.
+
+[PMH (modified)]
+Active Problem List:
+- Pseudogynecomastia (diagnosed 2020-01-15)
+- Slipped capital femoral epiphysis (diagnosed 2020-09-15)
+- Asthma, mild persistent
+- Atopic dermatitis (childhood eczema)
+- Obesity (BMI >95th percentile for age)
+- Sedentary lifestyle
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Albuterol sulfate inhalation aerosol 90 mcg (2 puffs) inhaled every 4-6 hours as needed for wheezing or shortness of breath
+- Fluticasone propionate inhalation aerosol 44 mcg (2 puffs) inhaled twice daily for asthma maintenance
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Maternal obesity
+- Paternal asthma
+- Older brother with history of slipped capital femoral epiphysis
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: None. Occupation: 8th grade middle school student.
+
+[PHYSICAL_EXAM]
+On examination, the patient is noted to be obese with a BMI at the 95th percentile for his age. He walks with a slight limp favoring his left leg. Hip examination reveals limited flexion and internal rotation of the left hip. There is no knee effusion, and the knee examination is otherwise unremarkable.
+
+[IMAGING]
+An anteroposterior radiograph of the pelvis is obtained.
+
+Encounter 6 — 2021-08-15 — Orthopedics & Sports Medicine
+----------------------------------------------------------------------
+Encounter ID: 10339    Type: outpatient
+Attending: Dr. David Kim    Order: 5
+Department: Orthopedics & Sports Medicine    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Painful limp worsened over the past three weeks with pain localized to left groin and knee.
+
+[HPI (modified)]
+The patient with obesity and prior left hip complaints reports a limp that has worsened over the past three weeks with pain localized to left groin and knee, worsened with activity.
+
+[PMH (modified)]
+Active Problem List:
+- Pseudogynecomastia (diagnosed 2020-01-15)
+- Slipped capital femoral epiphysis (diagnosed 2020-09-15)
+- Asthma, mild persistent
+- Atopic dermatitis (childhood eczema)
+- Obesity (BMI >95th percentile for age)
+- Sedentary lifestyle
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Albuterol sulfate inhalation aerosol 90 mcg (2 puffs) inhaled every 4-6 hours as needed for wheezing or shortness of breath
+- Fluticasone propionate inhalation aerosol 44 mcg (2 puffs) inhaled twice daily for asthma maintenance
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Maternal obesity
+- Paternal asthma
+- Older brother with history of slipped capital femoral epiphysis
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: None. Occupation: 8th grade middle school student.
+
+[VITALS]
+BMI is 23 kg/m²
+
+[PHYSICAL_EXAM]
+Limited internal rotation and abduction of the left hip. When standing, his left leg appears externally rotated and shorter than the right. Passive range of motion elicits discomfort at the left hip.
+
+[IMAGING]
+His x-ray findings are shown below.
+
+Encounter 7 — 2021-11-15 — Emergency Medicine
+----------------------------------------------------------------------
+Encounter ID: 10337    Type: ed
+Attending: Dr. Emily Johnson    Order: 6
+Department: Emergency Medicine    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+3-week history of left hip pain and a limp, worsens with activity, associated with recent growth spurt.
+
+[HPI (modified)]
+The patient with obesity returns with recurrent left hip pain, having presented repeatedly over the past year for similar symptoms. He denies any recent trauma but mentions that his pain worsens with activity and improves with rest. The patient has a BMI at the 95th percentile for his age. His mother reports that he has had a recent growth spurt.
+
+[PMH (modified)]
+Active Problem List:
+- Pseudogynecomastia (diagnosed 2020-01-15)
+- Slipped capital femoral epiphysis (diagnosed 2020-09-15)
+- Asthma, mild persistent
+- Atopic dermatitis (childhood eczema)
+- Obesity (BMI >95th percentile for age)
+- Sedentary lifestyle
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Albuterol sulfate inhalation aerosol 90 mcg (2 puffs) inhaled every 4-6 hours as needed for wheezing or shortness of breath
+- Fluticasone propionate inhalation aerosol 44 mcg (2 puffs) inhaled twice daily for asthma maintenance
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Maternal obesity
+- Paternal asthma
+- Older brother with history of slipped capital femoral epiphysis
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never. Alcohol: None. Occupation: 8th grade middle school student.
+
+[PHYSICAL_EXAM]
+On physical examination, the patient walks with a slight limp favoring his left side. There is limited internal rotation and abduction of the left hip.
+
+[IMAGING]
+An anteroposterior radiograph of the pelvis shows a subtle posterior and medial displacement of the proximal femoral metaphysis relative to the epiphysis.
+
+Encounter 8 — 2022-03-15 — Emergency Medicine
+----------------------------------------------------------------------
+Encounter ID: 10340    Type: ed
+Attending: Dr. Michael Patel    Order: 7
+Department: Emergency Medicine    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Persistent discomfort in his right thigh and groin that has worsened over the past 3 weeks after a soccer game, with progressive limp.
+
+[HPI (modified)]
+The patient is a 15-year-old male with obesity, mild persistent asthma, and atopic dermatitis, previously evaluated in 2020 and 2021 for left hip, thigh, and knee pain, who presents with new-onset right thigh and groin discomfort. He first noticed a dull ache after participating in a weekend soccer game, which he attributed to overexertion. The pain has not resolved with rest or over-the-counter analgesics, and he has been avoiding physical activity at school. His mother has noticed a progressive limp, particularly when he climbs stairs. He also mentions feeling more tired than usual and says he sometimes feels stiffness in the mornings, although this usually improves within an hour. There is no history of trauma, recent travel, rashes, or fever.
+
+[PMH (modified)]
+Active Problem List:
+- Pseudogynecomastia (diagnosed 2020-01-15)
+- Slipped capital femoral epiphysis (diagnosed 2020-09-15)
+- Slipped Capital Femoral Epiphysis of Left Hip (diagnosed 2021-11-15)
+- Asthma, mild persistent
+- Atopic dermatitis (childhood eczema)
+- Obesity (BMI >95th percentile for age)
+- Sedentary lifestyle
+
+His past medical history includes childhood eczema and mild asthma treated with inhaled corticosteroids.
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Albuterol sulfate inhalation aerosol 90 mcg (2 puffs) inhaled every 4-6 hours as needed for wheezing or shortness of breath
+- Fluticasone propionate inhalation aerosol 44 mcg (2 puffs) inhaled twice daily for asthma maintenance
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Maternal obesity
+- Paternal asthma
+- Older brother with history of slipped capital femoral epiphysis
+
+[SOCIAL_HISTORY]
+His diet is low in calcium-rich foods, and he spends most of his time indoors playing video games.
+
+[PHYSICAL_EXAM]
+His BMI is at the 97th percentile, and he is otherwise developmentally normal. On exam, he has a slightly externally rotated right lower extremity while standing. Gait assessment reveals limping and guarding on the right side. There is decreased range of motion at the right hip, especially with internal rotation. Knee and lumbar spine exams are unremarkable. There is no joint effusion or erythema. Neurologic exam is intact.
+
+[IMAGING]
+A radiograph of the pelvis is shown below.

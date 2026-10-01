@@ -1,0 +1,500 @@
+PATIENT RECORD — ID 1764
+======================================================================
+Age: 28    Sex: F
+Race/Ethnicity: Non-Hispanic White    Insurance: Blue Cross Blue Shield PPO
+Total Encounters: 8    Generation Seed: 3725
+
+Primary Diagnoses:
+  - Breech presentation at term
+  - Asymptomatic Actinomyces colonization of genital tract
+  - Malignant melanoma
+  - Anencephaly
+  - High-grade squamous intraepithelial lesion of cervix with unsatisfactory colposcopy
+  - Group B Streptococcus carrier state complicating pregnancy
+  - Pregnancy (20 weeks gestation)
+  - False labor (Braxton Hicks contractions)
+
+Comorbidities:
+  - Term pregnancy
+  - Pregnancy (20 weeks gestation)
+  - Pregnancy, 38 weeks gestation (third trimester)
+  - Nulliparity
+
+----------------------------------------------------------------------
+PATIENT PROFILE
+----------------------------------------------------------------------
+Sex: F
+Age at First Encounter: 28
+Race/Ethnicity: Non-Hispanic White
+Insurance: Blue Cross Blue Shield PPO
+Occupation: Elementary school teacher
+Smoking Status: Never smoker
+Alcohol Use: None
+
+Allergies:
+  - No known drug allergies
+
+Chronic Conditions:
+  - Epilepsy (generalized seizure disorder, new onset at 12 weeks gestation)
+  - History of malignant melanoma (back, status post wide local excision)
+  - History of high-grade squamous intraepithelial lesion (HSIL/CIN 2-3) of the cervix
+
+Home Medications:
+  - Carbamazepine - 200 mg PO twice daily
+  - Folic acid - 4 mg PO daily
+
+Surgical History:
+  - Wide local excision with 1cm margins, right upper back (melanoma)
+  - Cervical colposcopy (unsatisfactory visualization)
+  - Sentinel lymph node biopsy, negative for malignancy
+
+Family History:
+  - Maternal aunt: Malignant melanoma (age 45)
+  - Paternal grandmother: Epilepsy
+  - Mother: Hypothyroidism
+  - Father: Type 2 diabetes mellitus
+
+======================================================================
+ENCOUNTERS (8)
+======================================================================
+
+Encounter 1 — 2020-01-15 — Dermatology
+----------------------------------------------------------------------
+Encounter ID: 7343    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 0
+Department: Dermatology    Gen. Method: template
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Concerns about a changing mole on her back that her husband recently noticed has become darker and slightly larger over the past two months.
+
+[HPI]
+She reports that the mole has become darker and slightly larger over the past two months. She denies any pain, itching, or bleeding from the site.
+
+[PMH (modified)]
+Active Problem List:
+- Epilepsy (generalized seizure disorder, new onset at 12 weeks gestation)
+- History of malignant melanoma (back, status post wide local excision)
+- History of high-grade squamous intraepithelial lesion (HSIL/CIN 2-3) of the cervix
+
+[PSH (modified)]
+- Wide local excision with 1cm margins, right upper back (melanoma)
+- Cervical colposcopy (unsatisfactory visualization)
+- Sentinel lymph node biopsy, negative for malignancy
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Carbamazepine 200 mg PO twice daily
+- Folic acid 4 mg PO daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY]
+She has no family history of skin cancer.
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Elementary school teacher.
+
+[PHYSICAL_EXAM]
+On examination, the mole measures 8 mm in diameter, has irregular borders, and exhibits variegated colors including brown, black, and a hint of blue. There is no evidence of ulceration or bleeding. The remainder of her skin examination is normal.
+
+[ASSESSMENT]
+Given the changes in the mole during pregnancy,
+
+Encounter 2 — 2020-03-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7345    Type: outpatient
+Attending: Dr. Maria Rodriguez    Order: 1
+Department: Obstetrics & Gynecology    Gen. Method: template
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine gynecologic examination with abnormal cervical cancer screening results requiring colposcopic evaluation.
+
+[PMH (modified)]
+Active Problem List:
+- Malignant melanoma (diagnosed 2020-01-15)
+- Epilepsy (generalized seizure disorder, new onset at 12 weeks gestation)
+- History of malignant melanoma (back, status post wide local excision)
+- History of high-grade squamous intraepithelial lesion (HSIL/CIN 2-3) of the cervix
+
+[PSH (modified)]
+- Wide local excision with 1cm margins, right upper back (melanoma)
+- Cervical colposcopy (unsatisfactory visualization)
+- Sentinel lymph node biopsy, negative for malignancy
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Carbamazepine 200 mg PO twice daily
+- Folic acid 4 mg PO daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Maternal aunt: Malignant melanoma (age 45)
+- Paternal grandmother: Epilepsy
+- Mother: Hypothyroidism
+- Father: Type 2 diabetes mellitus
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Elementary school teacher.
+
+Encounter 3 — 2021-07-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7342    Type: outpatient
+Attending: Dr. Jennifer Park    Order: 2
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine annual well-woman examination with no active complaints.
+
+[HPI (modified)]
+The patient presents for routine annual well-woman examination with a history of generalized seizure disorder, malignant melanoma status post wide local excision, and high-grade squamous intraepithelial lesion of the cervix following prior dermatologic evaluation for a changing back mole and gynecologic assessment for abnormal cervical cancer screening. She has no complaints.
+
+[PMH (modified)]
+Active Problem List:
+- Malignant melanoma (diagnosed 2020-01-15)
+- High-grade squamous intraepithelial lesion of cervix with unsatisfactory colposcopy (diagnosed 2020-03-15)
+- Epilepsy (generalized seizure disorder, new onset at 12 weeks gestation)
+- History of malignant melanoma (back, status post wide local excision)
+- History of high-grade squamous intraepithelial lesion (HSIL/CIN 2-3) of the cervix
+
+She has never been pregnant and has regular menstrual cycles. Her last Pap smear was two years ago and was normal.
+
+[PSH (modified)]
+- Wide local excision with 1cm margins, right upper back (melanoma)
+- Cervical colposcopy (unsatisfactory visualization)
+- Sentinel lymph node biopsy, negative for malignancy
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Carbamazepine 200 mg PO twice daily
+- Folic acid 4 mg PO daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Maternal aunt: Malignant melanoma (age 45)
+- Paternal grandmother: Epilepsy
+- Mother: Hypothyroidism
+- Father: Type 2 diabetes mellitus
+
+[SOCIAL_HISTORY]
+She is in a monogamous relationship
+
+[VITALS]
+On examination, her vital signs are within normal limits
+
+[PHYSICAL_EXAM]
+Her pelvic exam is unremarkable with no cervical motion tenderness or adnexal masses
+
+[PATHOLOGY]
+A Pap smear is performed, and the results show the presence of Actinomyces-like organisms.
+
+[ASSESSMENT]
+The patient remains asymptomatic.
+
+Encounter 4 — 2022-05-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7347    Type: outpatient
+Attending: Dr. Emily Johnson    Order: 3
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+First prenatal visit at approximately 10 weeks gestation with mild nausea and fatigue.
+
+[HPI (modified)]
+This 30-year-old patient with epilepsy, history of malignant melanoma, and high-grade cervical dysplasia presents for her first prenatal visit following prior gynecologic care. She reports feeling well with mild nausea and fatigue.
+
+[PMH (modified)]
+Active Problem List:
+- Malignant melanoma (diagnosed 2020-01-15)
+- High-grade squamous intraepithelial lesion of cervix with unsatisfactory colposcopy (diagnosed 2020-03-15)
+- Asymptomatic Actinomyces colonization of genital tract (diagnosed 2021-07-15)
+- Epilepsy (generalized seizure disorder, new onset at 12 weeks gestation)
+- History of malignant melanoma (back, status post wide local excision)
+- History of high-grade squamous intraepithelial lesion (HSIL/CIN 2-3) of the cervix
+
+Her immunizations are up to date.
+
+[PSH (modified)]
+- Wide local excision with 1cm margins, right upper back (melanoma)
+- Cervical colposcopy (unsatisfactory visualization)
+- Sentinel lymph node biopsy, negative for malignancy
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Carbamazepine 200 mg PO twice daily
+- Folic acid 4 mg PO daily
+
+[ALLERGIES]
+She has no known drug allergies
+
+[FAMILY_HISTORY]
+Her family history is non-contributory.
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Elementary school teacher.
+
+[VITALS]
+On physical examination, her blood pressure is 120/78 mmHg, heart rate is 72 beats per minute, and she is afebrile.
+
+[PHYSICAL_EXAM]
+Her abdomen is soft, non-tender, with no palpable masses. Pelvic examination is normal for gestational age.
+
+[LABS]
+Laboratory results are as follows:
+
+- Blood type: A negative
+- Antibody screen: Negative
+- Hemoglobin: 12.5 g/dL
+- White blood cell count: 7,000/uL
+- Platelets: 250,000/uL
+
+[ASSESSMENT]
+Given the patient's blood type and antibody screen,
+
+Encounter 5 — 2022-08-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7344    Type: outpatient
+Attending: Dr. Emily Johnson    Order: 4
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine prenatal visit at 20 weeks gestation for second-trimester screening.
+
+[HPI (modified)]
+She has melanoma, HSIL, epilepsy. She returns for 20-week visit reporting feeling well with uneventful pregnancy thus far.
+
+[PMH (modified)]
+Active Problem List:
+- Malignant melanoma (diagnosed 2020-01-15)
+- High-grade squamous intraepithelial lesion of cervix with unsatisfactory colposcopy (diagnosed 2020-03-15)
+- Asymptomatic Actinomyces colonization of genital tract (diagnosed 2021-07-15)
+- Pregnancy (20 weeks gestation) (diagnosed 2022-05-15)
+- Epilepsy (generalized seizure disorder, new onset at 12 weeks gestation)
+- History of malignant melanoma (back, status post wide local excision)
+- History of high-grade squamous intraepithelial lesion (HSIL/CIN 2-3) of the cervix
+
+Her medical history is significant for epilepsy, for which she takes carbamazepine.
+
+[PSH (modified)]
+- Wide local excision with 1cm margins, right upper back (melanoma)
+- Cervical colposcopy (unsatisfactory visualization)
+- Sentinel lymph node biopsy, negative for malignancy
+
+[MEDICATIONS (modified)]
+She has been taking prenatal vitamins since she found out she was pregnant at 8 weeks gestation.
+
+Home Medications:
+- Carbamazepine 200 mg PO twice daily
+- Folic acid 4 mg PO daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Maternal aunt: Malignant melanoma (age 45)
+- Paternal grandmother: Epilepsy
+- Mother: Hypothyroidism
+- Father: Type 2 diabetes mellitus
+
+[SOCIAL_HISTORY]
+She does not smoke or drink alcohol.
+
+[VITALS]
+On examination, her blood pressure is 120/78 mmHg, heart rate is 72 beats per minute,
+
+[PHYSICAL_EXAM]
+Fetal heart tones are normal.
+
+[IMAGING]
+A routine fetal ultrasound is performed, which reveals an absent cerebrum, a calvarial defect, and an abnormal cerebellum. There is also evidence of polyhydramnios.
+
+Encounter 6 — 2022-12-15 — Emergency Medicine
+----------------------------------------------------------------------
+Encounter ID: 7348    Type: ed
+Attending: Dr. David Kim    Order: 5
+Department: Emergency Medicine    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Mild, irregular contractions every 10 to 15 minutes for the past 3 hours without vaginal bleeding or fluid leakage.
+
+[HPI (modified)]
+This 30-year-old patient with new-onset epilepsy and history of malignant melanoma and cervical HSIL presents at 36 weeks gestation. She describes the contractions as mild and irregular, occurring approximately every 10 to 15 minutes, without any increase in intensity. She denies any vaginal bleeding, leakage of fluid, or decrease in fetal movement.
+
+[PMH (modified)]
+Active Problem List:
+- Malignant melanoma (diagnosed 2020-01-15)
+- High-grade squamous intraepithelial lesion of cervix with unsatisfactory colposcopy (diagnosed 2020-03-15)
+- Asymptomatic Actinomyces colonization of genital tract (diagnosed 2021-07-15)
+- Pregnancy (20 weeks gestation) (diagnosed 2022-05-15)
+- Anencephaly (diagnosed 2022-08-15)
+- Epilepsy (generalized seizure disorder, new onset at 12 weeks gestation)
+- History of malignant melanoma (back, status post wide local excision)
+- History of high-grade squamous intraepithelial lesion (HSIL/CIN 2-3) of the cervix
+
+Her pregnancy has been uncomplicated, and prenatal care has been adequate.
+
+[PSH (modified)]
+- Wide local excision with 1cm margins, right upper back (melanoma)
+- Cervical colposcopy (unsatisfactory visualization)
+- Sentinel lymph node biopsy, negative for malignancy
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Carbamazepine 200 mg PO twice daily
+- Folic acid 4 mg PO daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Maternal aunt: Malignant melanoma (age 45)
+- Paternal grandmother: Epilepsy
+- Mother: Hypothyroidism
+- Father: Type 2 diabetes mellitus
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Elementary school teacher.
+
+[VITALS]
+On physical examination, her vital signs are stable,
+
+[PHYSICAL_EXAM]
+The fetal heart rate tracing is reassuring. A speculum examination reveals no evidence of ruptured membranes, and the cervix is closed, long, and posterior. No cervical change is noted compared to her last prenatal visit a week ago.
+
+[LABS]
+Laboratory Values:
+- Hemoglobin: 12.2 g/dL
+- White blood cell count: 9,000/mm^3
+- Platelets: 250,000/mm^3
+- Urinalysis: No proteinuria or glucosuria
+
+Encounter 7 — 2023-02-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7341    Type: outpatient
+Attending: Dr. Lisa Thompson    Order: 6
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine prenatal visit at term with discussion of delivery plans given suspected fetal malpresentation.
+
+[HPI (modified)]
+This 31-year-old with malignant melanoma, cervical HSIL, and epilepsy returns for prenatal care at term. She reports feeling well with good fetal movement. Her pregnancy has been uncomplicated, and she has received regular prenatal care. The patient expresses a desire for a vaginal delivery if possible.
+
+[PMH (modified)]
+Active Problem List:
+- Malignant melanoma (diagnosed 2020-01-15)
+- High-grade squamous intraepithelial lesion of cervix with unsatisfactory colposcopy (diagnosed 2020-03-15)
+- Asymptomatic Actinomyces colonization of genital tract (diagnosed 2021-07-15)
+- Pregnancy (20 weeks gestation) (diagnosed 2022-05-15)
+- Anencephaly (diagnosed 2022-08-15)
+- False labor (Braxton Hicks contractions) (diagnosed 2022-12-15)
+- Epilepsy (generalized seizure disorder, new onset at 12 weeks gestation)
+- History of malignant melanoma (back, status post wide local excision)
+- History of high-grade squamous intraepithelial lesion (HSIL/CIN 2-3) of the cervix
+
+[PSH (modified)]
+- Wide local excision with 1cm margins, right upper back (melanoma)
+- Cervical colposcopy (unsatisfactory visualization)
+- Sentinel lymph node biopsy, negative for malignancy
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Carbamazepine 200 mg PO twice daily
+- Folic acid 4 mg PO daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Maternal aunt: Malignant melanoma (age 45)
+- Paternal grandmother: Epilepsy
+- Mother: Hypothyroidism
+- Father: Type 2 diabetes mellitus
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Elementary school teacher.
+
+[VITALS]
+On examination, her blood pressure is 120/78 mmHg, heart rate is 72 bpm, and fetal heart rate is 140 bpm.
+
+[PHYSICAL_EXAM]
+The obstetric examination reveals a fundal height consistent with gestational age, but the fetal position is noted to be breech on Leopold maneuvers.
+
+[IMAGING]
+An ultrasound confirms a frank breech presentation with no other abnormalities. Amniotic fluid index is normal, and there are no signs of placental insufficiency.
+
+Encounter 8 — 2023-03-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7346    Type: inpatient
+Attending: Dr. Robert Garcia    Order: 7
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Regular contractions every 5 minutes for 2 hours with spontaneous rupture of membranes 30 minutes prior.
+
+[HPI (modified)]
+The 31-year-old with melanoma, HSIL, and epilepsy since 12 weeks gestation returns following breech presentation. She reports her water broke 30 minutes ago. Her prenatal course was complicated by asymptomatic bacteriuria at 16 weeks caused by GBS and treated with amoxicillin.
+
+[PMH (modified)]
+Active Problem List:
+- Malignant melanoma (diagnosed 2020-01-15)
+- High-grade squamous intraepithelial lesion of cervix with unsatisfactory colposcopy (diagnosed 2020-03-15)
+- Asymptomatic Actinomyces colonization of genital tract (diagnosed 2021-07-15)
+- Pregnancy (20 weeks gestation) (diagnosed 2022-05-15)
+- Anencephaly (diagnosed 2022-08-15)
+- False labor (Braxton Hicks contractions) (diagnosed 2022-12-15)
+- Breech presentation at term (diagnosed 2023-02-15)
+- Epilepsy (generalized seizure disorder, new onset at 12 weeks gestation)
+- History of malignant melanoma (back, status post wide local excision)
+- History of high-grade squamous intraepithelial lesion (HSIL/CIN 2-3) of the cervix
+
+[PSH (modified)]
+- Wide local excision with 1cm margins, right upper back (melanoma)
+- Cervical colposcopy (unsatisfactory visualization)
+- Sentinel lymph node biopsy, negative for malignancy
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Carbamazepine 200 mg PO twice daily
+- Folic acid 4 mg PO daily
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Maternal aunt: Malignant melanoma (age 45)
+- Paternal grandmother: Epilepsy
+- Mother: Hypothyroidism
+- Father: Type 2 diabetes mellitus
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Elementary school teacher.
+
+[VITALS]
+Her temperature is 37.2°C (99.0°F), blood pressure is 120/78 mmHg, pulse is 88/min, and respiratory rate is 16/min.
+
+[PHYSICAL_EXAM]
+Physical examination reveals a gravid abdomen with a fundal height appropriate for gestational age. Fetal heart tones are regular at 140 beats/min. Pelvic examination shows that the cervix is dilated to 4 cm, effaced 80%, and the amniotic membranes are ruptured.
+
+[ASSESSMENT]
+Given her medical history,

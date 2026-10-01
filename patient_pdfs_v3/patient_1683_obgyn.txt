@@ -1,0 +1,451 @@
+PATIENT RECORD — ID 1683
+======================================================================
+Age: 28    Sex: F
+Race/Ethnicity: Non-Hispanic Asian    Insurance: Employer-sponsored commercial insurance
+Total Encounters: 8    Generation Seed: 4446
+
+Primary Diagnoses:
+  - Aplasia cutis congenita
+  - Pregnancy (second trimester)
+  - Graves disease
+  - Maternal febrile illness during first trimester affecting fetus
+  - Migraine without aura
+  - Thrombocytopenia
+
+Comorbidities:
+  - Personal History of Cholelithiasis
+  - Pregnancy (second trimester)
+
+----------------------------------------------------------------------
+PATIENT PROFILE
+----------------------------------------------------------------------
+Sex: F
+Age at First Encounter: 28
+Race/Ethnicity: Non-Hispanic Asian
+Insurance: Employer-sponsored commercial insurance
+Occupation: High school physical education teacher
+Smoking Status: Never smoker
+Alcohol Use: None; denies alcohol use during pregnancy
+
+Allergies:
+  - NKDA
+
+Chronic Conditions:
+  - Graves disease
+  - Chronic hepatitis B infection
+  - Migraine without aura
+
+Home Medications:
+  - Propylthiouracil - 100 mg PO TID
+  - Prenatal vitamin - 1 tablet PO daily
+
+Surgical History:
+  - None
+
+Family History:
+  - Mother: Autoimmune thyroid disease (hypothyroidism)
+  - Father: Hypertension
+  - Sister: Migraine disorder
+
+======================================================================
+ENCOUNTERS (8)
+======================================================================
+
+Encounter 1 — 2020-01-15 — Endocrinology & Metabolism
+----------------------------------------------------------------------
+Encounter ID: 6865    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 0
+Department: Endocrinology & Metabolism    Gen. Method: template
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Three-month history of palpitations, heat intolerance, unintentional weight loss despite increased appetite, frequent bowel movements, and insomnia.
+
+[HPI]
+She also reports experiencing frequent bowel movements and difficulty sleeping.
+
+[PMH (modified)]
+Active Problem List:
+- Graves disease
+- Chronic hepatitis B infection
+- Migraine without aura
+
+[PSH (modified)]
+- None
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Propylthiouracil 100 mg PO TID
+- Prenatal vitamin 1 tablet PO daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY]
+Her mother has an autoimmune thyroid condition
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None; denies alcohol use during pregnancy. Occupation: High school physical education teacher.
+
+[VITALS]
+Her pulse is 110 bpm
+
+[PHYSICAL_EXAM]
+On examination, she appears anxious and has a fine tremor of her outstretched hands. her skin is warm and moist. You note a diffuse, non-tender goiter without nodularity.
+
+[LABS]
+Her TSH level is <0.01 IU/mL (normal: 0.4-4.0 IU/mL), free T4 is 3 ng/dL (normal: 0.9-1.7 ng/dL), and total T3 is 300 ng/dL (normal: 80-180 ng/dL). Thyroid-stimulating immunoglobulin (TSI) is present.
+
+Encounter 2 — 2023-06-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6862    Type: procedure
+Attending: Dr. Maria Rodriguez    Order: 1
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Presents for routine fetal anatomy scan at 20 weeks gestation.
+
+[HPI (modified)]
+The patient is a 31-year-old female with a history of Graves disease initially diagnosed in January 2020 and chronic hepatitis B infection who returns for a routine fetal anatomy scan at 20 weeks gestation. She has been on antithyroid therapy for the past 3 years. At the time of confirming her pregnancy, she was still taking methimazole, which she had been using consistently for several months. Her medication was later switched to propylthiouracil at her first prenatal visit, which occurred around 12 weeks gestation. She reports no other medication use, no infections, and no substance use. Her first pregnancy was uncomplicated. She asks if her early pregnancy medication could have affected the baby.
+
+[PMH (modified)]
+Active Problem List:
+- Graves disease (diagnosed 2020-01-15)
+- Chronic hepatitis B infection
+- Migraine without aura
+
+[PSH (modified)]
+- None
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Propylthiouracil 100 mg PO TID
+- Prenatal vitamin 1 tablet PO daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother: Autoimmune thyroid disease (hypothyroidism)
+- Father: Hypertension
+- Sister: Migraine disorder
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None; denies alcohol use during pregnancy. Occupation: High school physical education teacher.
+
+[PHYSICAL_EXAM]
+The maternal exam is unremarkable.
+
+[IMAGING]
+The ultrasound reveals a live, singleton fetus with normal growth parameters and normal fluid volume.
+
+Encounter 3 — 2023-08-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6868    Type: outpatient
+Attending: Dr. Priya Patel    Order: 2
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine prenatal visit to discuss appropriate weight gain and caloric intake during pregnancy.
+
+[HPI (modified)]
+The patient returns for routine prenatal follow-up in the context of established Graves disease and a prior anatomy scan demonstrating aplasia cutis congenita. She has a normal prepregnancy BMI of 22 and has gained 10 kg (22 lb) since the beginning of her pregnancy. She reports following a balanced diet and taking her prenatal vitamins regularly. She inquires about the appropriate amount of weight gain and caloric intake for the remainder of her pregnancy.
+
+[PMH (modified)]
+Active Problem List:
+- Graves disease (diagnosed 2020-01-15)
+- Aplasia cutis congenita (diagnosed 2023-06-15)
+- Chronic hepatitis B infection
+- Migraine without aura
+
+[PSH (modified)]
+- None
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Propylthiouracil 100 mg PO TID
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother: Autoimmune thyroid disease (hypothyroidism)
+- Father: Hypertension
+- Sister: Migraine disorder
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None; denies alcohol use during pregnancy. Occupation: High school physical education teacher.
+
+[PHYSICAL_EXAM]
+Her physical examination is within normal limits. Her obstetric examination is consistent with a 24-week gestation, and fetal heart tones are normal.
+
+Encounter 4 — 2023-10-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6863    Type: outpatient
+Attending: Dr. Maria Rodriguez    Order: 3
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine prenatal visit to inquire about safety of continuing basketball coaching activities.
+
+[HPI (modified)]
+The patient with Graves disease, chronic hepatitis B, and migraine returns for second-trimester prenatal care following August and June visits. She has had an uncomplicated pregnancy thus far. She expresses a desire to continue participating in the school's sports program, which includes coaching basketball. She inquires about the safety of her involvement in the program.
+
+[PMH (modified)]
+Active Problem List:
+- Graves disease (diagnosed 2020-01-15)
+- Aplasia cutis congenita (diagnosed 2023-06-15)
+- Pregnancy (second trimester) (diagnosed 2023-08-15)
+- Chronic hepatitis B infection
+- Migraine without aura
+
+[PSH (modified)]
+- None
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Propylthiouracil 100 mg PO TID
+- Prenatal vitamin 1 tablet PO daily
+
+[ALLERGIES]
+She has no known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Mother: Autoimmune thyroid disease (hypothyroidism)
+- Father: Hypertension
+- Sister: Migraine disorder
+
+[SOCIAL_HISTORY]
+She is a high school physical education teacher and is accustomed to an active lifestyle.
+
+[VITALS]
+Her vital signs are within normal limits
+
+[PHYSICAL_EXAM]
+Her physical examination is unremarkable. Her obstetric examination is consistent with a 16-week gestation, and fetal heart tones are normal.
+
+[ASSESSMENT]
+She has no contraindications to exercise based on her medical and obstetric history.
+
+Encounter 5 — 2023-12-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6864    Type: outpatient
+Attending: Dr. James O'Brien    Order: 4
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine prenatal visit with reports of increased shortness of breath when climbing stairs and mild ankle swelling by end of day.
+
+[HPI (modified)]
+She returns for prenatal care. With Graves disease and chronic hepatitis B, she reports feeling generally well but has noticed increased shortness of breath when climbing stairs and mild swelling in her ankles by the end of the day.
+
+[PMH (modified)]
+Active Problem List:
+- Graves disease (diagnosed 2020-01-15)
+- Aplasia cutis congenita (diagnosed 2023-06-15)
+- Pregnancy (second trimester) (diagnosed 2023-08-15)
+- Chronic hepatitis B infection
+- Migraine without aura
+
+Her obstetric history is significant for one previous full-term normal vaginal delivery with no complications.
+
+[PSH (modified)]
+- None
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Propylthiouracil 100 mg PO TID
+- Prenatal vitamin 1 tablet PO daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother: Autoimmune thyroid disease (hypothyroidism)
+- Father: Hypertension
+- Sister: Migraine disorder
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None; denies alcohol use during pregnancy. Occupation: High school physical education teacher.
+
+[VITALS]
+On examination, her blood pressure is 120/75 mmHg, heart rate is 88 beats per minute, and respiratory rate is 16 breaths per minute
+
+[PHYSICAL_EXAM]
+Cardiac examination reveals a grade 2/6 systolic ejection murmur heard best at the left sternal border that decreases in intensity when she sits up from a supine position. Lung fields are clear to auscultation. There is mild pitting edema in both ankles.
+
+Encounter 6 — 2024-02-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6867    Type: outpatient
+Attending: Dr. Aisha Johnson    Order: 5
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Twenty-four-hour history of throbbing bitemporal headache accompanied by nausea and sensitivity to light.
+
+[HPI (modified)]
+The patient with Graves returns for obstetrics follow-up. She reports headache is accompanied by nausea and sensitivity to light.
+
+[PMH (modified)]
+Active Problem List:
+- Graves disease (diagnosed 2020-01-15)
+- Aplasia cutis congenita (diagnosed 2023-06-15)
+- Pregnancy (second trimester) (diagnosed 2023-08-15)
+- Chronic hepatitis B infection
+- Migraine without aura
+
+She has a history of migraines, which have increased in frequency since becoming pregnant. Her medical history is otherwise unremarkable.
+
+[PSH (modified)]
+- None
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Propylthiouracil 100 mg PO TID
+- Prenatal vitamin 1 tablet PO daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother: Autoimmune thyroid disease (hypothyroidism)
+- Father: Hypertension
+- Sister: Migraine disorder
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None; denies alcohol use during pregnancy. Occupation: High school physical education teacher.
+
+[ROS]
+She denies any recent head trauma, fever, neck stiffness, or visual changes.
+
+[VITALS]
+Her blood pressure is 122/78 mmHg, heart rate is 78 beats per minute, and temperature is 98.6°F (37°C).
+
+[PHYSICAL_EXAM]
+Physical examination is unremarkable, with no signs of focal neurological deficits.
+
+[PLAN]
+Given her pregnancy and migraine history, you consider appropriate treatment options for her acute symptoms.
+
+Encounter 7 — 2024-03-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6869    Type: outpatient
+Attending: Dr. Priya Patel    Order: 6
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine prenatal visit with no specific complaints.
+
+[HPI (modified)]
+Patient with Graves disease and hepatitis B returns for routine prenatal care. She has no complaints and has had an uneventful pregnancy thus far.
+
+[PMH (modified)]
+Active Problem List:
+- Graves disease (diagnosed 2020-01-15)
+- Aplasia cutis congenita (diagnosed 2023-06-15)
+- Pregnancy (second trimester) (diagnosed 2023-08-15)
+- Migraine without aura (diagnosed 2024-02-15)
+- Chronic hepatitis B infection
+
+[PSH (modified)]
+- None
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Propylthiouracil 100 mg PO TID
+- Prenatal vitamin 1 tablet PO daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother: Autoimmune thyroid disease (hypothyroidism)
+- Father: Hypertension
+- Sister: Migraine disorder
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None; denies alcohol use during pregnancy. Occupation: High school physical education teacher.
+
+[ROS]
+She denies any history of bruising, bleeding, or anemia.
+
+[VITALS]
+Her blood pressure is 120/78 mmHg, heart rate is 82 beats per minute
+
+[PHYSICAL_EXAM]
+Physical examination is normal with no petechiae, purpura, or hepatosplenomegaly.
+
+[LABS]
+Laboratory results are as follows:
+
+- Hemoglobin: 12.2 g/dL
+- White blood cell count: 7,800/mm3
+- Platelets: 115,000/mm3
+- Prothrombin time (PT): 12 seconds (control 11-13.5 seconds)
+- Activated partial thromboplastin time (aPTT): 30 seconds (control 25-35 seconds)
+
+Encounter 8 — 2024-05-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 6866    Type: inpatient
+Attending: Dr. David Kim    Order: 7
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Presents to labor and delivery unit in active labor.
+
+[HPI (modified)]
+The patient with Graves disease and hepatitis B presents in active labor following care for aplasia cutis congenita and thrombocytopenia. She has been compliant with her prenatal care and reports no complications during her pregnancy. Her first child is healthy with no chronic illnesses.
+
+[PMH (modified)]
+Active Problem List:
+- Graves disease (diagnosed 2020-01-15)
+- Aplasia cutis congenita (diagnosed 2023-06-15)
+- Pregnancy (second trimester) (diagnosed 2023-08-15)
+- Migraine without aura (diagnosed 2024-02-15)
+- Thrombocytopenia (diagnosed 2024-03-15)
+- Chronic hepatitis B infection
+
+[PSH (modified)]
+- None
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Propylthiouracil 100 mg PO TID
+
+[ALLERGIES]
+She has no history of drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Mother: Autoimmune thyroid disease (hypothyroidism)
+- Father: Hypertension
+- Sister: Migraine disorder
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None; denies alcohol use during pregnancy. Occupation: High school physical education teacher.
+
+[VITALS]
+On examination, her vital signs are stable
+
+[PHYSICAL_EXAM]
+, and the fetal heart tracing is reassuring.
+
+[LABS]
+Her prenatal labs were significant for positive HBsAg and HBeAg.
+
+[ASSESSMENT]
+She delivers a healthy male infant weighing 3,400 grams via spontaneous vaginal delivery. The infant's Apgar scores are 8 and 9 at 1 and 5 minutes, respectively.

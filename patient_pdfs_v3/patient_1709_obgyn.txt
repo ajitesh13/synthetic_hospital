@@ -1,0 +1,510 @@
+PATIENT RECORD — ID 1709
+======================================================================
+Age: 34    Sex: F
+Race/Ethnicity: African American    Insurance: Private insurance
+Total Encounters: 8    Generation Seed: 3685
+
+Primary Diagnoses:
+  - Placenta previa with preterm hemorrhage
+  - Idiopathic polyhydramnios
+  - Acute fatty liver of pregnancy
+  - Urethral diverticulum
+  - Breech presentation at 36 weeks gestation
+  - Transverse lie
+  - History of classical cesarean section
+  - Severe preeclampsia
+
+Comorbidities:
+  - Personal History of Cholelithiasis
+  - Multiparity
+  - Pregnancy at 36 weeks gestation
+
+----------------------------------------------------------------------
+PATIENT PROFILE
+----------------------------------------------------------------------
+Sex: F
+Age at First Encounter: 34
+Race/Ethnicity: African American
+Insurance: Private insurance
+Occupation: Elementary school teacher
+Smoking Status: Never smoker
+Alcohol Use: No alcohol use
+
+Allergies:
+  - No known drug allergies
+
+Chronic Conditions:
+  - Uterine leiomyomas
+  - Urethral diverticulum
+  - History of gestational hypertension
+
+Home Medications:
+  - Prenatal vitamin with iron - 1 tablet daily
+  - Low-dose aspirin - 81 mg daily
+  - Nitrofurantoin - 100 mg nightly for UTI prophylaxis
+
+Surgical History:
+  - Classical cesarean section (age 32)
+  - Repair of second-degree perineal tear (age 30)
+
+Family History:
+  - Preeclampsia (mother)
+  - Uterine leiomyomas (mother)
+  - Hypertension (father)
+
+======================================================================
+ENCOUNTERS (8)
+======================================================================
+
+Encounter 1 — 2020-01-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7019    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 0
+Department: Obstetrics & Gynecology    Gen. Method: template
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Recurrent urinary tract infections, dysuria, and a sensation of incomplete bladder emptying
+
+[HPI]
+A 32-year-old woman presents to the clinic with a 6-month history of recurrent urinary tract infections, dysuria, and a sensation of incomplete bladder emptying. She also reports occasional postvoid dribbling and dyspareunia.
+
+[PMH (modified)]
+Active Problem List:
+- Uterine leiomyomas
+- Urethral diverticulum
+- History of gestational hypertension
+
+Her past medical history is significant for childbirth 2 years ago with a second-degree perineal tear.
+
+[PSH (modified)]
+- Classical cesarean section (age 32)
+- Repair of second-degree perineal tear (age 30)
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin with iron 1 tablet daily
+- Low-dose aspirin 81 mg daily
+- Nitrofurantoin 100 mg nightly for UTI prophylaxis
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Preeclampsia (mother)
+- Uterine leiomyomas (mother)
+- Hypertension (father)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: No alcohol use. Occupation: Elementary school teacher.
+
+[PHYSICAL_EXAM]
+On physical examination, a tender anterior vaginal wall mass is palpated, which expresses purulent discharge when pressure is applied
+
+[LABS]
+Urinalysis reveals pyuria
+
+Encounter 2 — 2020-03-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7017    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 1
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+She presents to the obstetrics clinic for a routine prenatal visit
+
+[HPI (modified)]
+The patient returns for routine prenatal care with uterine leiomyomas, urethral diverticulum, and gestational hypertension. She reports feeling well with no complaints of contractions, vaginal bleeding, or leakage of fluid, and her pregnancy has been uncomplicated with regular prenatal care.
+
+[PMH (modified)]
+Active Problem List:
+- Urethral diverticulum (diagnosed 2020-01-15)
+- Uterine leiomyomas
+- History of gestational hypertension
+
+Her first pregnancy resulted in a normal vaginal delivery of a healthy infant.
+
+[PSH (modified)]
+- Classical cesarean section (age 32)
+- Repair of second-degree perineal tear (age 30)
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin with iron 1 tablet daily
+- Low-dose aspirin 81 mg daily
+- Nitrofurantoin 100 mg nightly for UTI prophylaxis
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Preeclampsia (mother)
+- Uterine leiomyomas (mother)
+- Hypertension (father)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: No alcohol use. Occupation: Elementary school teacher.
+
+[VITALS]
+On examination, her vital signs are within normal limits
+
+[PHYSICAL_EXAM]
+Fetal heart tones are regular. The fundal height measurement is noted to be greater than expected for gestational age.
+
+[IMAGING]
+An ultrasound is performed, which reveals an amniotic fluid index (AFI) of 26 cm with no fetal anomalies or evidence of gastrointestinal obstruction. The fetus is in a cephalic presentation with normal growth parameters.
+
+Encounter 3 — 2020-06-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7021    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 2
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+She presents to the obstetrics clinic for a routine prenatal visit
+
+[HPI (modified)]
+Patient returns for prenatal care with leiomyomas and diverticulum and reports feeling well with good fetal movement. Prenatal course is unremarkable.
+
+[PMH (modified)]
+Active Problem List:
+- Urethral diverticulum (diagnosed 2020-01-15)
+- Idiopathic polyhydramnios (diagnosed 2020-03-15)
+- Uterine leiomyomas
+- History of gestational hypertension
+
+Her first pregnancy was uncomplicated, and she had a vaginal delivery at term.
+
+[PSH (modified)]
+- Classical cesarean section (age 32)
+- Repair of second-degree perineal tear (age 30)
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin with iron 1 tablet daily
+- Low-dose aspirin 81 mg daily
+- Nitrofurantoin 100 mg nightly for UTI prophylaxis
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Preeclampsia (mother)
+- Uterine leiomyomas (mother)
+- Hypertension (father)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: No alcohol use. Occupation: Elementary school teacher.
+
+[VITALS]
+Her blood pressure is 120/78 mmHg, heart rate is 82 beats per minute
+
+[PHYSICAL_EXAM]
+On examination, fundal height is consistent with gestational age. Fetal heart tones are normal.
+
+[IMAGING]
+An ultrasound is performed, which shows the fetus in a transverse lie with the spine perpendicular to the mother's long axis. There are no other abnormalities noted on the ultrasound.
+
+Encounter 4 — 2020-08-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7020    Type: outpatient
+Attending: Dr. Maria Rodriguez    Order: 3
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+She presents to the obstetrics clinic for a routine prenatal visit
+
+[HPI (modified)]
+She returns for prenatal care at 36 weeks with diverticulum and transverse lie. She reports feeling well but notes fetal movements differ from first pregnancy.
+
+[PMH (modified)]
+Active Problem List:
+- Urethral diverticulum (diagnosed 2020-01-15)
+- Idiopathic polyhydramnios (diagnosed 2020-03-15)
+- Transverse lie (diagnosed 2020-06-15)
+- Uterine leiomyomas
+- History of gestational hypertension
+
+Her past medical history is significant for uterine leiomyomas diagnosed two years ago, which have been asymptomatic and monitored with serial ultrasounds. Her first child was delivered vaginally at term without complications.
+
+[PSH (modified)]
+- Classical cesarean section (age 32)
+- Repair of second-degree perineal tear (age 30)
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin with iron 1 tablet daily
+- Low-dose aspirin 81 mg daily
+- Nitrofurantoin 100 mg nightly for UTI prophylaxis
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Preeclampsia (mother)
+- Uterine leiomyomas (mother)
+- Hypertension (father)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: No alcohol use. Occupation: Elementary school teacher.
+
+[PHYSICAL_EXAM]
+On examination, the fundal height is appropriate for gestational age, and fetal heart tones are normal.
+
+[IMAGING]
+An ultrasound is performed, which shows the fetus in a breech position with the buttocks presenting closest to the cervix. The ultrasound also confirms the presence of multiple leiomyomas, the largest of which is located at the fundus of the uterus.
+
+Encounter 5 — 2020-09-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7022    Type: inpatient
+Attending: Dr. Maria Rodriguez    Order: 4
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+She presents to the labor and delivery unit with regular contractions every 5 minutes for the past 2 hours
+
+[HPI (modified)]
+Returning to the labor and delivery unit with regular contractions every 5 minutes, the patient has histories of uterine leiomyomas, urethral diverticulum, and gestational hypertension, and was evaluated earlier this pregnancy for recurrent urinary symptoms, polyhydramnios, and fetal malpresentation. Her prenatal course was unremarkable, and she desires a vaginal delivery.
+
+[PMH (modified)]
+Active Problem List:
+- Urethral diverticulum (diagnosed 2020-01-15)
+- Idiopathic polyhydramnios (diagnosed 2020-03-15)
+- Transverse lie (diagnosed 2020-06-15)
+- Breech presentation at 36 weeks gestation (diagnosed 2020-08-15)
+- Uterine leiomyomas
+- History of gestational hypertension
+
+[PSH]
+She reports that her previous delivery was via cesarean section due to breech presentation. On further questioning, she reveals that the cesarean was performed through a vertical incision on the upper uterus because the baby was in an awkward position.
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin with iron 1 tablet daily
+- Low-dose aspirin 81 mg daily
+- Nitrofurantoin 100 mg nightly for UTI prophylaxis
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Preeclampsia (mother)
+- Uterine leiomyomas (mother)
+- Hypertension (father)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: No alcohol use. Occupation: Elementary school teacher.
+
+[VITALS]
+On examination, her vital signs are stable
+
+[PHYSICAL_EXAM]
+Fetal heart tones are reassuring. The cervix is dilated to 4 cm, and the fetus is in a cephalic presentation.
+
+Encounter 6 — 2023-01-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 7016    Type: outpatient
+Attending: Dr. James Okafor    Order: 5
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+She presents to the obstetrics clinic for a routine prenatal visit.
+
+[HPI (modified)]
+Patient with uterine leiomyomas and prior cesarean returns for prenatal care. Her current pregnancy has been unremarkable until now. She reports occasional shortness of breath but denies vaginal bleeding, leakage of fluid, or contractions.
+
+[PMH (modified)]
+Active Problem List:
+- Urethral diverticulum (diagnosed 2020-01-15)
+- Idiopathic polyhydramnios (diagnosed 2020-03-15)
+- Transverse lie (diagnosed 2020-06-15)
+- Breech presentation at 36 weeks gestation (diagnosed 2020-08-15)
+- History of classical cesarean section (diagnosed 2020-09-15)
+- Uterine leiomyomas
+- History of gestational hypertension
+
+Her first pregnancy was uncomplicated, and she had a spontaneous vaginal delivery at term.
+
+[PSH (modified)]
+- Classical cesarean section (age 32)
+- Repair of second-degree perineal tear (age 30)
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin with iron 1 tablet daily
+- Low-dose aspirin 81 mg daily
+- Nitrofurantoin 100 mg nightly for UTI prophylaxis
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Preeclampsia (mother)
+- Uterine leiomyomas (mother)
+- Hypertension (father)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: No alcohol use. Occupation: Elementary school teacher.
+
+[VITALS]
+On examination, her blood pressure is 120/78 mmHg, heart rate is 88 beats per minute, and fetal heart rate is 140 beats per minute.
+
+[PHYSICAL_EXAM]
+The obstetric examination reveals a fundal height consistent with gestational age, but the fetal position is suspected to be breech on palpation.
+
+[LABS]
+Her prenatal labs have been normal, including a negative gestational diabetes screen.
+
+[IMAGING]
+An ultrasound confirms a breech presentation with the fetus in a frank breech position. Additionally, the ultrasound shows placenta previa with the placenta covering the internal cervical os.
+
+Encounter 7 — 2023-07-15 — Emergency Medicine
+----------------------------------------------------------------------
+Encounter ID: 7023    Type: ed
+Attending: Dr. Emily Watson    Order: 6
+Department: Emergency Medicine    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Severe right upper quadrant pain, nausea, and vomiting
+
+[HPI (modified)]
+This 37-year-old female with uterine leiomyomas, urethral diverticulum on UTI prophylaxis, and placenta previa with hemorrhage presents to the emergency department with a 24-hour history of severe right upper quadrant pain, nausea, and vomiting. She reports the pain is constant and radiates to her back.
+
+[PMH (modified)]
+Active Problem List:
+- Urethral diverticulum (diagnosed 2020-01-15)
+- Idiopathic polyhydramnios (diagnosed 2020-03-15)
+- Transverse lie (diagnosed 2020-06-15)
+- Breech presentation at 36 weeks gestation (diagnosed 2020-08-15)
+- History of classical cesarean section (diagnosed 2020-09-15)
+- Placenta previa with preterm hemorrhage (diagnosed 2023-01-15)
+- Uterine leiomyomas
+- History of gestational hypertension
+
+She has a history of gestational hypertension in her previous pregnancy.
+
+[PSH (modified)]
+- Classical cesarean section (age 32)
+- Repair of second-degree perineal tear (age 30)
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin with iron 1 tablet daily
+- Low-dose aspirin 81 mg daily
+- Nitrofurantoin 100 mg nightly for UTI prophylaxis
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Preeclampsia (mother)
+- Uterine leiomyomas (mother)
+- Hypertension (father)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: No alcohol use. Occupation: Elementary school teacher.
+
+[VITALS]
+Her blood pressure is 160/100 mmHg, and her pulse is 98 beats per minute.
+
+[PHYSICAL_EXAM]
+Physical examination reveals right upper quadrant tenderness without rebound or guarding. Reflexes are brisk, and there is no ankle edema.
+
+[LABS]
+Laboratory studies show:
+
+- Hemoglobin: 9.8 g/dL (Normal: 12-16 g/dL)
+- Platelet count: 70,000/mm³ (Normal: 150,000-400,000/mm³)
+- AST: 120 U/L (Normal: 10-40 U/L)
+- ALT: 150 U/L (Normal: 7-56 U/L)
+- LDH: 600 U/L (Normal: 140-280 U/L)
+- Total bilirubin: 2.2 mg/dL (Normal: 0.1-1.2 mg/dL)
+- Peripheral smear: schistocytes present
+
+Urinalysis shows 2+ proteinuria.
+
+[OTHER_STUDIES]
+The fetal heart tracing is reactive without decelerations.
+
+Encounter 8 — 2024-07-15 — Emergency Medicine
+----------------------------------------------------------------------
+Encounter ID: 7018    Type: ed
+Attending: Dr. David Kim    Order: 7
+Department: Emergency Medicine    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+She presents to the emergency department with a 2-day history of persistent nausea, vomiting, and right upper quadrant pain
+
+[HPI (modified)]
+The patient with uterine leiomyomas, urethral diverticulum, and prior severe preeclampsia returns with similar complaints. She reports that her pain is constant and radiates to her back. She denies any history of gallstones or alcohol use. Her pregnancy has been uncomplicated until now.
+
+[PMH (modified)]
+Active Problem List:
+- Urethral diverticulum (diagnosed 2020-01-15)
+- Idiopathic polyhydramnios (diagnosed 2020-03-15)
+- Transverse lie (diagnosed 2020-06-15)
+- Breech presentation at 36 weeks gestation (diagnosed 2020-08-15)
+- History of classical cesarean section (diagnosed 2020-09-15)
+- Placenta previa with preterm hemorrhage (diagnosed 2023-01-15)
+- Severe preeclampsia (diagnosed 2023-07-15)
+- Uterine leiomyomas
+- History of gestational hypertension
+
+[PSH (modified)]
+- Classical cesarean section (age 32)
+- Repair of second-degree perineal tear (age 30)
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin with iron 1 tablet daily
+- Low-dose aspirin 81 mg daily
+- Nitrofurantoin 100 mg nightly for UTI prophylaxis
+
+[ALLERGIES (modified)]
+No known drug allergies
+
+[FAMILY_HISTORY (modified)]
+- Preeclampsia (mother)
+- Uterine leiomyomas (mother)
+- Hypertension (father)
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: No alcohol use. Occupation: Elementary school teacher.
+
+[VITALS]
+On examination, her blood pressure is 135/85 mmHg, heart rate is 102 beats per minute, and she is afebrile.
+
+[PHYSICAL_EXAM]
+Her skin and sclera are anicteric. Abdominal examination reveals tenderness in the right upper quadrant without rebound or guarding. Fetal heart tones are normal.
+
+[LABS]
+Laboratory studies reveal:
+
+- Hemoglobin: 11.2 g/dL
+- Platelet count: 85,000/mm³
+- Aspartate aminotransferase (AST): 250 U/L
+- Alanine aminotransferase (ALT): 230 U/L
+- Bilirubin: 1.2 mg/dL
+- Alkaline phosphatase: 120 U/L
+- Prothrombin time (PT): 16 seconds (control 12 seconds)
+- Blood glucose: 45 mg/dL
+
+Urinalysis is normal. There is no proteinuria.
+
+[PLAN]
+The obstetric team is consulted.

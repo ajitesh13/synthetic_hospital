@@ -1,0 +1,455 @@
+PATIENT RECORD — ID 2744
+======================================================================
+Age: 42    Sex: F
+Race/Ethnicity: African American    Insurance: Commercial PPO
+Total Encounters: 8    Generation Seed: 3736
+
+Primary Diagnoses:
+  - Stress urinary incontinence
+  - Oligohydramnios
+  - Uterine leiomyoma
+  - Down syndrome
+
+Comorbidities:
+  - Personal History of Cholelithiasis
+  - Multiparity
+
+----------------------------------------------------------------------
+PATIENT PROFILE
+----------------------------------------------------------------------
+Sex: F
+Age at First Encounter: 42
+Race/Ethnicity: African American
+Insurance: Commercial PPO
+Occupation: Marketing Consultant
+Smoking Status: Never smoker
+Alcohol Use: None
+
+Allergies:
+  - NKDA
+
+Chronic Conditions:
+  - Stress urinary incontinence
+  - Uterine leiomyoma
+  - Generalized anxiety disorder
+
+Home Medications:
+  - Prenatal vitamin - 1 tablet daily
+
+Surgical History:
+  - Repeat spontaneous vaginal deliveries (x4)
+  - Dilation and curettage for first-trimester miscarriage
+  - Second-stage labor complications (prolonged) with last delivery
+
+Family History:
+  - Mother with history of uterine fibroids
+  - Negative for familial chromosomal abnormalities or genetic disorders
+  - No family history of Down syndrome
+
+======================================================================
+ENCOUNTERS (8)
+======================================================================
+
+Encounter 1 — 2020-01-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 11611    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 0
+Department: Obstetrics & Gynecology    Gen. Method: template
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Urinary leakage when exercising or sneezing that began after her last delivery two years ago.
+
+[HPI]
+She reports that her symptoms began after the birth of her last child two years ago. She wears protective pads daily and feels embarrassed during social outings due to unpredictable accidents.
+
+[PMH (modified)]
+Active Problem List:
+- Stress urinary incontinence
+- Uterine leiomyoma
+- Generalized anxiety disorder
+
+She has had four full-term vaginal deliveries.
+
+[PSH (modified)]
+- Repeat spontaneous vaginal deliveries (x4)
+- Dilation and curettage for first-trimester miscarriage
+- Second-stage labor complications (prolonged) with last delivery
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother with history of uterine fibroids
+- Negative for familial chromosomal abnormalities or genetic disorders
+- No family history of Down syndrome
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Marketing Consultant.
+
+[ROS]
+She denies nocturia, urgency, or dysuria.
+
+[PHYSICAL_EXAM]
+Pelvic examination shows mild uterine descent and slight anterior vaginal wall laxity. Post-void residual is 25 mL.
+
+[OTHER_STUDIES]
+Voiding diary reveals normal frequency with low-volume urine loss triggered by laughing or jumping.
+
+[ASSESSMENT]
+Her symptoms are consistent with stress urinary incontinence
+
+[PLAN]
+Begins to counsel her on behavioral strategies, including Kegel exercises, before considering medical or surgical interventions. The physician replies that pelvic floor exercises help reinforce the voluntary musculature that supports the urethra and bladder neck.
+
+Encounter 2 — 2020-04-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 11613    Type: outpatient
+Attending: Dr. Sarah Chen    Order: 1
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Six-month history of urinary frequency and urgency with progressive leakage when coughing or sneezing.
+
+[HPI (modified)]
+The patient returns for follow-up of stress incontinence evaluated in January 2020. She reports that she experiences urinary leakage when coughing or sneezing, which has progressively worsened over the past few months. She denies dysuria or hematuria.
+
+[PMH (modified)]
+Active Problem List:
+- Stress urinary incontinence (diagnosed 2020-01-15)
+- Uterine leiomyoma
+- Generalized anxiety disorder
+
+Her medical history is significant for menorrhagia and pelvic pressure for the past year. She has not been pregnant before.
+
+[PSH]
+She denies any history of pelvic surgery.
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother with history of uterine fibroids
+- Negative for familial chromosomal abnormalities or genetic disorders
+- No family history of Down syndrome
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Marketing Consultant.
+
+[PHYSICAL_EXAM]
+On physical examination, her abdomen is non-tender, and a bimanual pelvic exam reveals an irregularly enlarged, non-tender uterus. There is no adnexal mass or tenderness.
+
+[LABS]
+Her urinalysis is normal.
+
+Encounter 3 — 2020-07-15 — Urogynecology
+----------------------------------------------------------------------
+Encounter ID: 11610    Type: outpatient
+Attending: Dr. Maria Rodriguez    Order: 2
+Department: Urogynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Progressively worsening urinary leakage over the past six months when she coughs or exercises.
+
+[HPI (modified)]
+The patient returns for follow-up of urinary leakage seen in January and April. She reports that this problem has been progressively worsening over the past six months.
+
+[PMH (modified)]
+Active Problem List:
+- Stress urinary incontinence (diagnosed 2020-01-15)
+- Uterine leiomyoma (diagnosed 2020-04-15)
+- Generalized anxiety disorder
+
+She has a history of two vaginal deliveries, the last of which was complicated by a prolonged second stage of labor.
+
+[PSH (modified)]
+- Repeat spontaneous vaginal deliveries (x4)
+- Dilation and curettage for first-trimester miscarriage
+- Second-stage labor complications (prolonged) with last delivery
+
+[MEDICATIONS (modified)]
+She is.
+
+Home Medications:
+- Prenatal vitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother with history of uterine fibroids
+- Negative for familial chromosomal abnormalities or genetic disorders
+- No family history of Down syndrome
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Marketing Consultant.
+
+[ROS]
+Her menstrual periods are regular, and she denies any postmenopausal symptoms.
+
+[VITALS]
+Her BMI is 26 kg/m^2
+
+[PHYSICAL_EXAM]
+Abdominal examination is unremarkable. A cough stress test is positive for urine leakage.
+
+[LABS]
+Urinalysis is normal.
+
+Encounter 4 — 2023-01-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 11617    Type: outpatient
+Attending: Dr. Jennifer Park    Order: 3
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine prenatal visit at 17 weeks' gestation with anxiety regarding chromosomal abnormalities given advanced maternal age.
+
+[HPI (modified)]
+The patient returns for routine prenatal care at 17 weeks' gestation with established histories of stress urinary incontinence and uterine leiomyoma previously evaluated in this department in 2020. She conceived spontaneously and has had an uncomplicated pregnancy thus far. She expresses anxiety about the possibility of her child having a chromosomal disorder due to her age. She previously declined first-trimester screening and is now interested in any tests that can still assess fetal risk. She has no vaginal bleeding or abdominal pain and feels well overall.
+
+[PMH (modified)]
+Active Problem List:
+- Stress urinary incontinence (diagnosed 2020-01-15)
+- Uterine leiomyoma (diagnosed 2020-04-15)
+- Generalized anxiety disorder
+
+Her obstetric history includes one prior healthy vaginal delivery and one first-trimester miscarriage.
+
+[PSH (modified)]
+- Repeat spontaneous vaginal deliveries (x4)
+- Dilation and curettage for first-trimester miscarriage
+- Second-stage labor complications (prolonged) with last delivery
+
+[MEDICATIONS]
+She take any medications aside from prenatal vitamins
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother with history of uterine fibroids
+- Negative for familial chromosomal abnormalities or genetic disorders
+- No family history of Down syndrome
+
+[SOCIAL_HISTORY]
+She does not smoke, drink alcohol
+
+[PHYSICAL_EXAM]
+Physical examination is unremarkable, and fetal heart tones are heard with Doppler. Fundal height is appropriate for gestational age.
+
+[PLAN]
+The patient agrees to undergo second-trimester maternal serum screening, also known as the quad screen. When the test is performed, the clinician explains that the results can help identify the likelihood of neural tube defects and certain chromosomal abnormalities. If this fetus does in fact have trisomy 21,
+
+Encounter 5 — 2023-01-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 11615    Type: outpatient
+Attending: Dr. Jennifer Park    Order: 4
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Routine prenatal care at 17 weeks' gestation for ongoing pregnancy management.
+
+[HPI (modified)]
+The patient returns for continued prenatal care at 17 weeks following recent assessment for chromosomal concerns, with a history of stress urinary incontinence and uterine leiomyoma. She has had an uncomplicated pregnancy so far.
+
+[PMH (modified)]
+Active Problem List:
+- Stress urinary incontinence (diagnosed 2020-01-15)
+- Uterine leiomyoma (diagnosed 2020-04-15)
+- Down syndrome (diagnosed 2023-01-15)
+- Generalized anxiety disorder
+
+Her prior pregnancies were unremarkable with spontaneous vaginal deliveries at term.
+
+[PSH (modified)]
+- Repeat spontaneous vaginal deliveries (x4)
+- Dilation and curettage for first-trimester miscarriage
+- Second-stage labor complications (prolonged) with last delivery
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother with history of uterine fibroids
+- Negative for familial chromosomal abnormalities or genetic disorders
+- No family history of Down syndrome
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Marketing Consultant.
+
+[IMAGING]
+A second-trimester ultrasound reveals increased nuchal translucency and a hypoplastic nasal bone. The fetus also has shortened femur length and a possible endocardial cushion defect.
+
+[PLAN]
+The patient is counseled about the possibility of chromosomal abnormalities and consents to a maternal serum quad screen. Based on these findings,
+
+Encounter 6 — 2023-02-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 11616    Type: outpatient
+Attending: Dr. Amara Okafor    Order: 5
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Follow-up prenatal visit at 17 weeks' gestation for routine surveillance and screening results.
+
+[HPI (modified)]
+The patient with a history of stress urinary incontinence, uterine leiomyoma, and generalized anxiety disorder returns for prenatal follow-up at 17 weeks' gestation for routine surveillance and screening results. She has had an uncomplicated pregnancy so far.
+
+[PMH (modified)]
+Active Problem List:
+- Stress urinary incontinence (diagnosed 2020-01-15)
+- Uterine leiomyoma (diagnosed 2020-04-15)
+- Down syndrome (diagnosed 2023-01-15)
+- Generalized anxiety disorder
+
+Her prior pregnancies were unremarkable with spontaneous vaginal deliveries at term.
+
+[PSH (modified)]
+- Repeat spontaneous vaginal deliveries (x4)
+- Dilation and curettage for first-trimester miscarriage
+- Second-stage labor complications (prolonged) with last delivery
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother with history of uterine fibroids
+- Negative for familial chromosomal abnormalities or genetic disorders
+- No family history of Down syndrome
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Marketing Consultant.
+
+[IMAGING]
+A second-trimester ultrasound reveals increased nuchal translucency and a hypoplastic nasal bone. The fetus also has shortened femur length and a possible endocardial cushion defect.
+
+[PLAN]
+The patient is counseled about the possibility of chromosomal abnormalities and consents to a maternal serum quad screen. Based on these findings,
+
+Encounter 7 — 2023-05-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 11612    Type: outpatient
+Attending: Dr. Jennifer Park    Order: 6
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Decreased fetal movements over the past 24 hours at routine third-trimester prenatal visit.
+
+[HPI (modified)]
+45-year-old with stress incontinence, leiomyoma, and anxiety returns for prenatal care. She reports decreased fetal movements over the past 24 hours. Her pregnancy has been uncomplicated, and she has received regular prenatal care.
+
+[PMH (modified)]
+Active Problem List:
+- Stress urinary incontinence (diagnosed 2020-01-15)
+- Uterine leiomyoma (diagnosed 2020-04-15)
+- Down syndrome (diagnosed 2023-01-15)
+- Generalized anxiety disorder
+
+Her first pregnancy resulted in a spontaneous vaginal delivery at 39 weeks.
+
+[PSH (modified)]
+- Repeat spontaneous vaginal deliveries (x4)
+- Dilation and curettage for first-trimester miscarriage
+- Second-stage labor complications (prolonged) with last delivery
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin 1 tablet daily
+
+[ALLERGIES (modified)]
+NKDA
+
+[FAMILY_HISTORY (modified)]
+- Mother with history of uterine fibroids
+- Negative for familial chromosomal abnormalities or genetic disorders
+- No family history of Down syndrome
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Marketing Consultant.
+
+[PHYSICAL_EXAM]
+On examination, her blood pressure is 120/78 mmHg, heart rate is 82 beats per minute, and fetal heart rate is 140 beats per minute.
+
+[IMAGING]
+An ultrasound is performed to assess amniotic fluid volume, which reveals an amniotic fluid index (AFI) of 3 cm.
+
+[OTHER_STUDIES]
+A nonstress test shows minimal fetal heart rate variability with no accelerations and no decelerations.
+
+Encounter 8 — 2023-06-15 — Obstetrics & Gynecology
+----------------------------------------------------------------------
+Encounter ID: 11614    Type: inpatient
+Attending: Dr. David Kim    Order: 7
+Department: Obstetrics & Gynecology    Gen. Method: hybrid
+
+Structured EHR Sections:
+
+[CHIEF_COMPLAINT (modified)]
+Continued decreased fetal movements with confirmed oligohydramnios requiring admission for fetal monitoring.
+
+[HPI (modified)]
+The patient with stress incontinence and leiomyoma returns for continued monitoring with an uncomplicated pregnancy and regular prenatal care.
+
+[PMH (modified)]
+Active Problem List:
+- Stress urinary incontinence (diagnosed 2020-01-15)
+- Uterine leiomyoma (diagnosed 2020-04-15)
+- Down syndrome (diagnosed 2023-01-15)
+- Oligohydramnios (diagnosed 2023-05-15)
+- Generalized anxiety disorder
+
+[PSH (modified)]
+- Repeat spontaneous vaginal deliveries (x4)
+- Dilation and curettage for first-trimester miscarriage
+- Second-stage labor complications (prolonged) with last delivery
+
+[MEDICATIONS (modified)]
+Home Medications:
+- Prenatal vitamin 1 tablet daily
+
+[ALLERGIES]
+She has no known drug allergies.
+
+[FAMILY_HISTORY (modified)]
+- Mother with history of uterine fibroids
+- Negative for familial chromosomal abnormalities or genetic disorders
+- No family history of Down syndrome
+
+[SOCIAL_HISTORY (modified)]
+Smoking: Never smoker. Alcohol: None. Occupation: Marketing Consultant.
+
+[VITALS]
+On examination, her blood pressure is 122/78 mmHg, heart rate is 88 beats per minute, and fetal heart rate is 140 beats per minute.
+
+[IMAGING]
+An ultrasound is performed, which reveals an amniotic fluid index (AFI) of 4 cm.
